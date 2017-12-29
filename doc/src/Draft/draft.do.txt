@@ -46,10 +46,13 @@ FIGURE: [figslides/cs.jpg, width=500 frac=0.6]
 * Research challenges that require computation-oriented multidisciplinary and interdisciplinary approaches.	
 * Research problems that require “bleeding edge” (e.g., multi-petaflop/petabyte) computational approaches to interpret experimental data and complex data.. 	
 
-* Center-level funding opportunities (e.g., DoE SciDAC, NSF OCI SI 2 ).	
+* Center-level funding opportunities (e.g., SFF, Marie Curie etc etc).	
 
 !split
 ===== New research opportunities =====
+
+!split
+===== Timeline =====
 
 
 !split
