@@ -51,6 +51,13 @@ FIGURE: [figslides/cs.jpg, width=500 frac=0.6]
 !split
 ===== New research opportunities =====
 
+* Simulations of complex quantum mechanical systems using novel algorithms, with applications spanning from quantumchromodynamics on the lattice and subatomic physics, via materials to the equation of state of stars.
+* Exploring algorithms from quantum computing in order to solve complicated quantum mechanical problems
+* Study complex materials or the DNA using large-scale molecular dynamics simulations
+* Using machine learning to solve complicated problems, from  neuroscience (our brain), physiology to strongly interacting quantum mechanical systems
+* Using machine learning to develop new tools for learning physics
+
+
 !split
 ===== Timeline =====
 
@@ -66,17 +73,5 @@ FIGURE: [figslides/cs.jpg, width=500 frac=0.6]
 
 * Combining machine learning and data analysis with quantum computing is an exciting topic which can change totally the future of computer simulations and the way we study physical systems.
 
-!split
-=====  Possible thesis topics =====
 
-* Simulations of complex quantum mechanical systems using novel algorithms, with applications spanning from quantumchromodynamics on the lattice and subatomic physics, via materials to the equation of state of stars.
-* Exploring algorithms from quantum computing in order to solve complicated quantum mechanical problems
-* Study complex materials or the DNA using large-scale molecular dynamics simulations
-* Using machine learning to solve complicated problems, from  neuroscience (our brain), physiology to strongly interacting quantum mechanical systems
-* Using machine learning to develop new tools for learning physics
 
-!split
-===== Special topics =====
-* Only program where you learn how to use machine learning to study  complex physical systems
-* Emphasis on the tools and knowledge which will prepare you for the scientific challenges of the 21st century
-* Several exchange possibilities with leading universities and laboratories in Europe, Asia and Northern America.
