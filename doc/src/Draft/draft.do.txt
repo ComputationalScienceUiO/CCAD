@@ -119,7 +119,7 @@ o Humanities: need people
 ===== Timeline =====
 
 o Establish a center called _Center for Computing across Disciplines_ by Fall 2018 and co-locate with the new Center for Computing in Science Education
-o Establish a department  called _Department of Computational and Data Science_ by Fall 2021
+o Establish a department  called _Department of Computational Science and Data Science_ by Fall 2021
 o "New Master of Science Program on Computational Science starts fall 2018":"http://www.uio.no/english/studies/programmes/computational-science-master/index.html"
 o "New Master of Science Program on Data Science starts fall 2018":"http://www.uio.no/english/studies/programmes/datascience-master/index.html"
 o Develop a Bachelor program in Computational Science and Data Science? Need to strike a balance between existing programs and possible new _honors program_. 
