@@ -21,13 +21,13 @@ The material is produced in various formats for printing and on-screen reading.
 
  * LaTeX PDF:
    * For printing:
-     * "Standard one-page format": "https://computationalscienceuio.github.io/CCAD/doc/pub/draft/pdf/draft-minted.pdf"
+     * "Standard one-page format": "http://computationalscienceuio.github.io/CCAD/doc/pub/draft/pdf/draft-minted.pdf"
  * HTML slides:
-   * "Plain html style": "https://computationalscienceuio.github.io/CCAD/doc/pub/draft/html/draft.html"
-   * "reveal.js beige slide style": "https://computationalscienceuio.github.io/CCAD/doc/pub/draft/html/draft-reveal.html"
-   * "Bootstrap style": "https://computationalscienceuio.github.io/CCAD/doc/pub/draft/html/draft-bs.html"
+   * "Plain html style": "http://computationalscienceuio.github.io/CCAD/doc/pub/draft/html/draft.html"
+   * "reveal.js beige slide style": "http://computationalscienceuio.github.io/CCAD/doc/pub/draft/html/draft-reveal.html"
+   * "Bootstrap style": "http://computationalscienceuio.github.io/CCAD/doc/pub/draft/html/draft-bs.html"
  * iPython notebook:
-   * "ipynb file": "https://computationalscienceuio.github.io/CCAD/doc/pub/draft/ipynb/draft.ipynb"
+   * "ipynb file": "http://computationalscienceuio.github.io/CCAD/doc/pub/draft/ipynb/draft.ipynb"
 
 
 
@@ -37,13 +37,13 @@ The material is produced in various formats for printing and on-screen reading.
 
  * LaTeX PDF:
    * For printing:
-     * "Standard one-page format": "https://computationalscienceuio.github.io/CCAD/doc/pub/writeup/pdf/writeup-minted.pdf"
+     * "Standard one-page format": "http://computationalscienceuio.github.io/CCAD/doc/pub/writeup/pdf/writeup-minted.pdf"
  * HTML slides:
-   * "Plain html style": "https://computationalscienceuio.github.io/CCAD/doc/pub/writeup/html/writeup.html"
-   * "reveal.js beige slide style": "https://computationalscienceuio.github.io/CCAD/doc/pub/writeup/html/writeup-reveal.html"
-   * "Bootstrap style": "https://computationalscienceuio.github.io/CCAD/doc/pub/writeup/html/writeup-bs.html"
+   * "Plain html style": "http://computationalscienceuio.github.io/CCAD/doc/pub/writeup/html/writeup.html"
+   * "reveal.js beige slide style": "http://computationalscienceuio.github.io/CCAD/doc/pub/writeup/html/writeup-reveal.html"
+   * "Bootstrap style": "http://computationalscienceuio.github.io/CCAD/doc/pub/writeup/html/writeup-bs.html"
  * iPython notebook:
-   * "ipynb file": "https://computationalscienceuio.github.io/CCAD/doc/pub/writeup/ipynb/writeup.ipynb"
+   * "ipynb file": "http://computationalscienceuio.github.io/CCAD/doc/pub/writeup/ipynb/writeup.ipynb"
 
 
 

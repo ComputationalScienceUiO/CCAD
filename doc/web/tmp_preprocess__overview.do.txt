@@ -3,7 +3,7 @@ TITLE: Slides and various material for a new department proposal
 AUTHOR: Morten Hjorth-Jensen  Email:mhjensen@fys.uio.no
 
 <%
-pub_url = 'https://computationalscienceuio.github.io/CCAD/doc/pub'
+pub_url = 'http://computationalscienceuio.github.io/CCAD/doc/pub'
 published = ['draft', 'writeup',]
 chapters = {
  'draft': 'Computing across the disciplines, slides',
