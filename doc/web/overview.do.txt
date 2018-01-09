@@ -9,7 +9,7 @@ AUTHOR: Morten Hjorth-Jensen  Email:mhjensen@fys.uio.no
 # #endif
 
 <%
-pub_url = 'https://computationalscienceuio.github.io/CCAD/doc/web/overview'
+pub_url = 'https://computationalscienceuio.github.io/CCAD/doc/pub'
 published = ['draft', 'writeup',]
 chapters = {
  'draft': 'Computing across the disciplines, slides',
