@@ -1,7 +1,6 @@
 TITLE: Computing Across the Disciplines (CAD); a new Center/Department at the University of Oslo
-AUTHOR: A proposal to the board of the Mat-Nat Fakultetet of the University of Oslo
-
-DATE: Establish a center by fall 2018 and as a new department by fall 2021
+AUTHOR: Morten Hjorth-Jensen at Department of Physics, University of Oslo, Oslo, Norway  and Michigan State University, USA
+DATE: A proposal to the board of the Mat-Nat Fakultetet of the University of Oslo; Establish a center by fall 2018 and as a new department by fall 2021
 
 
 
@@ -15,17 +14,14 @@ DATE: Establish a center by fall 2018 and as a new department by fall 2021
 * Students at both undergraduate and graduate level are unprepared to use computational modeling, data science, and high performance computing – skills valued by a very broad range of employers.
 
 
-!split
-===== Computational science, a cross-disciplinary enterprise =====
 
-FIGURE: [figslides/cs.jpg, width=500 frac=0.6] 
 
 !split
 ===== Goals =====
 
 * Position UiO  as a leader in computational science by recruiting faculty whose expertise pertains to large-scale computing and mathematical foundations of data science - both generalists (algorithm/tool developers) and specialists (focused on specific disciplines).	
 
-* Develop a comprehensive set of courses and degree programs at both the undergraduate and graduate levels that will give students across the university exposure to practical computational methods, understanding how to analyse data and more generally to the idea of computers as problem-solving tools.	
+* Develop a comprehensive set of courses and degree programs at both undergraduate and graduate levels that will give students across the university exposure to practical computational methods, understanding how to analyse data and more generally to the idea of computers as problem-solving tools.	
 
 * Facilitate the adoption of computational tools and techniques for both research and education across campus, through education and faculty collaboration. A center and then a department will facilitate the pursuit of these goals!	
 
@@ -47,6 +43,21 @@ FIGURE: [figslides/cs.jpg, width=500 frac=0.6]
 * Lead in the development of computations in Life Science
 * Strong links with SIMULA research lab
 
+
+!split
+===== Enhance Computational Science and Data Science across the disciplines =====
+
+Data driven discovery and data driven modeling play already a central role in research. The global objective here is to strengthen and coordinate such activities by bringing together scientists and students across the disciplines.
+UiO has already strong computational research and education activities within Mathematics and the Natural Sciences.
+The aim here is to extend this to include
+
+* Computational Science and data science in Mathematics and all of the physical sciences
+* Computational biology and life science (includes medicine)
+* Computational economics and data science and computing in the social science
+* Data science and computing in the Humanities
+
+The new department will host and coordinate research and educational programs in Computational Science and Data Science. In particular research and education that onvolve  data analysis and machine Learning will play a central role here.
+
 !split
 ===== The Center/Department =====
 * Administratively located under the Mat-Nat college
@@ -67,6 +78,7 @@ FIGURE: [figslides/cs.jpg, width=500 frac=0.6]
 !split
 ===== Research opportunities =====
 
+* Data driven discovery and data-driven modeling where machine learning plays a central role
 * Research challenges that require computation-oriented multidisciplinary and interdisciplinary approaches.	
 * Research problems that require “bleeding edge” (e.g., multi-petaflop/petabyte) computational approaches to interpret experimental data and complex data.
 * Computational and data science research and education scattered across many departments. New department can strengthen computational science. 	
@@ -81,11 +93,12 @@ FIGURE: [figslides/cs.jpg, width=500 frac=0.6]
 * Study complex materials or the DNA using large-scale molecular dynamics simulations
 * Using machine learning to solve complicated problems, from  neuroscience (our brain), physiology to complicated materials 
 * Using machine learning to develop new tools for learning
-* Computing in Life Science (more text here)
-* Computing in the Social Sciences and the Humanities (more text here)
+* Bioinformatics, Computational Biology  and Life science
+* Computational economy and computing in the Social Sciences 
+* Data-driven discovery and modeling in  the Humanities
 
 !split
-===== Involved departments and centers of excellence  =====
+===== Possible steering committee (2018)  =====
 
 o Institute for theoretical Astrophysics and Rosseland Center for Solar Physics: Mats Carlsson and Viggo Hansteen
 o Bioscience: Tom Andersen and Lex Nederbragt
@@ -106,37 +119,54 @@ o Humanities: need people
 ===== Timeline =====
 
 o Establish a center called _Center for Computing across Disciplines_ by Fall 2018 and co-locate with the new Center for Computing in Science Education
-o Establish a department  called _Computational Science_ by Fall 2021
-o "New Master of Science Program on Computational Science starts fall 2018":" "
-o "New Master of Science Program on Data Science starts fall 2018":" "
-o Develop a Bachelor program in Computational Science and Data Science?
+o Establish a department  called _Department of Computational and Data Science_ by Fall 2021
+o "New Master of Science Program on Computational Science starts fall 2018":"http://www.uio.no/english/studies/programmes/computational-science-master/index.html"
+o "New Master of Science Program on Data Science starts fall 2018":"http://www.uio.no/english/studies/programmes/datascience-master/index.html"
+o Develop a Bachelor program in Computational Science and Data Science? Need to strike a balance between existing programs and possible new _honors program_. 
+o Consider the establishment of a cross-college PhD program in Data Science and Computational Science, start fall 2021
+o Submit an application called _Computing Across the Disciplines_ for a Marie Curie training network by spring 2019, 15 PhD positions
+o Submit an application called _Computing Across the Disciplines_ to the Norwegian Research council by Spring 2019, 10 PhD and 10 PD positions
+o Prepare first draft for an SFF application by  spring 2020
 
 !split
 ===== Role and functioning of Center =====
 
-More text to come
+For this part, see the long write-up with details and suggestions
 
 !split
 ===== Role and functioning of Department =====
 
-More text to come
+For this part, see the long write-up with details and suggestions
 
 
 
 !split
 ===== Centers and Departments at other universities =====
 
-Universities worldwide with departments that cover computational science and data science and 
-offer educational programs in computational science and data science
-|-------------------------------------------------|
-| Country | Department | Bachelor program | Master program | PhD program |
-|-------------------------------------------------|
-|         |            |                  |       |
-|-------------------------------------------------|
+In Norway it is only UiO which offers a Masters program on Computational Science and Data Science. Al other universities have only Master programs on Computer Science. The University of Bergen has a Masters program on Applied Mathematics while UMB has only a Masters on Bioinformatics and Data analysis. These are limited and more focused programs. Nationally, UiO is the only university which offers broad programs in Computational Science and Data Science. 
 
+|-------------------------------------------------------------------------------------------------------------|
+| Norway | University | Comp Science and Data dept | Bachelor program | Master program | Graduate/PhD program |
+|-------------------------------------------------------------------------------------------------------------|
+|         | UiO        |  No                      |  No                | Yes           | No                   |
+|         | NTNU        |  No                      |  No                | No           | No                   |
+|         | UiT        |  No                      |  No                | No           | No                   |
+|         | UiB        |  No                      |  No                | No           | No                   |
+|         | UMB        |  No                      |  No                | Yes (Bioinf+stat datanalyse)           | No                   |
+|------------------------------------------------------------------------------------------------------------|
+
+Out of 95 universities polled in the USA, there are less than 15 which have a department on Scientific Computing
+and more than 50 that have a center on Scientific Computing. Between 20 to 30 of these offer a bachelor, Master of Science or PhD program. On Data Science there are approximately 30 departments and 40 centers. Almost 50 of these universities offer a Masters degree in Data Science and close to 40 a PhD in Data Science. 
+An excellent example of a department which includes computational science and data science is the newly established "department at Michigan State University":"https://cmse.msu.edu/".
+
+At the time of writing, no such poll has been made for European universities. From the list over Masters programs, the countries with the largest focus on these topics are Germany, Sweden and Switzerland. 
+
+The goal in Oslo is to establish a department which covers both Computational Science and Data Science across colleges and disciplines. The department will be responsible for these educational programs and oversee that a coherent and modern selection of courses is offered and developed. The courses should reflect the needs of society at large as well as the specific research projects.  This will give UiO a unique position in Norway. 
+
+ 
 !split
 ===== Educational programs at  other universities =====
 
 The Society for Industrial and Applied Mathematics (SIAM) "keeps track of graduate programs in computational Science":"https://www.siam.org/students/resources/cse_programs.php". The list is most likely not complete. 
 
-Make extensive table taken from the SIAM survey and make own survey. 
+
