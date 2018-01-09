@@ -1,12 +1,6 @@
 # Strange way of testing for vortex...
-# #ifdef NON_VORTEX
-TITLE: bla bla
-
-TOC: off
-# #else
 TITLE: Slides and various material for a new department proposal
 AUTHOR: Morten Hjorth-Jensen  Email:mhjensen@fys.uio.no
-# #endif
 
 <%
 pub_url = 'https://computationalscienceuio.github.io/CCAD/doc/web/overview'
