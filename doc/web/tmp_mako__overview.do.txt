@@ -37,13 +37,13 @@ The material is produced in various formats for printing and on-screen reading.
 
  * LaTeX PDF:
    * For printing:
-     * "Standard one-page format": "http://computationalscienceuio.github.io/CCAD/doc/pub/writeup/pdf/writeup-minted.pdf"
+     * "Standard one-page format": "http://computationalscienceuio.github.io/CCAD/doc/pub/whitepaper/pdf/whitepaper-minted.pdf"
  * HTML slides:
-   * "Plain html style": "http://computationalscienceuio.github.io/CCAD/doc/pub/writeup/html/writeup.html"
-   * "reveal.js beige slide style": "http://computationalscienceuio.github.io/CCAD/doc/pub/writeup/html/writeup-reveal.html"
-   * "Bootstrap style": "http://computationalscienceuio.github.io/CCAD/doc/pub/writeup/html/writeup-bs.html"
+   * "Plain html style": "http://computationalscienceuio.github.io/CCAD/doc/pub/whitepaper/html/whitepaper.html"
+   * "reveal.js beige slide style": "http://computationalscienceuio.github.io/CCAD/doc/pub/whitepaper/html/whitepaper-reveal.html"
+   * "Bootstrap style": "http://computationalscienceuio.github.io/CCAD/doc/pub/whitepaper/html/whitepaper-bs.html"
  * iPython notebook:
-   * "ipynb file": "http://computationalscienceuio.github.io/CCAD/doc/pub/writeup/ipynb/writeup.ipynb"
+   * "ipynb file": "http://computationalscienceuio.github.io/CCAD/doc/pub/whitepaper/ipynb/whitepaper.ipynb"
 
 
 
