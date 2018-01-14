@@ -1,22 +1,24 @@
-TITLE: Computing Across the Disciplines (CAD); a new Center/Department at the University of Oslo
+TITLE: Computing Across the Disciplines (CAD); a new Department at the University of Oslo
 AUTHOR: Morten Hjorth-Jensen at Department of Physics, University of Oslo, Oslo, Norway  and Michigan State University, USA
-DATE: A proposal to the board of the Mat-Nat Fakultetet of the University of Oslo; Establish a center by fall 2018 and as a new department by fall 2021
+DATE: A proposal to the board of the Mat-Nat Fakultetet of the University of Oslo; Establish a center (Center for Computing Across the Disciplines) by fall 2018 and as a new department (Department of Computational and Data Sciences) by fall 2020
 
 
 ===== Executive Summary =====
 
-* Position UiO  as a leader in computational science by recruiting faculty whose expertise pertains to large-scale computing and mathematical foundations of data science - both generalists (algorithm/tool developers) and specialists (focused on specific disciplines).	
-
-* Develop a comprehensive set of courses and degree programs at both undergraduate and graduate levels that will give students across the university exposure to practical computational methods, understanding how to analyse data and more generally to the idea of computers as problem-solving tools.	
-
-* Facilitate the adoption of computational tools and techniques for both research and education across campus, through education and faculty collaboration. A center and then a department will facilitate the pursuit of these goals!	
 
 
-* Educate the next generation of school teachers and university teachers,  with a strong focus on digital competences. 
 
 
-This proposal seeks to transform Michigan State University into the world
-leader in scientific discovery through large-scale computation. The Colleges of Natural Science
+This proposal seeks to transform the University of Oslo (UiO) to become a 
+leader in scientific discovery through large-scale computation and data driven research, 
+nationally and internationally. The aim is to
+position UiO  as a leader in computational science by recruiting faculty whose expertise pertains to large-scale computing and mathematical foundations of data science - both generalists (algorithm/tool developers) and specialists (focused on specific disciplines). 
+
+We propose a two-step process
+* By fall 2018 establish first a center (Center for Computing Across the Disciplines)  which will lay the foundation for cross-disciplinary activities and then establish  
+* a new Department of Computational and Data Sciences by fall 2020. 
+
+The Colleges of Natural Science
 and Engineering propose: (1) a new Department of Computational Mathematics, Science and
 Engineering (CMSE) that is jointly administered by the College of Natural Science and the
 College of Engineering, to facilitate interdisciplinary science; (2) the injection of 25-30 new
@@ -51,6 +53,13 @@ techniques (“push”), which will ignite new transformational connections in r
 education. This research nexus also gives rise to the educational opportunities driven by similar
 synergy, leveraging common resources among disciplines, and enabling joint programs and
 unique degrees across the entire computational space.
+
+* Develop a comprehensive set of courses and degree programs at both undergraduate and graduate levels that will give students across the university exposure to practical computational methods, understanding how to analyse data and more generally to the idea of computers as problem-solving tools.	
+
+* Facilitate the adoption of computational tools and techniques for both research and education across campus, through education and faculty collaboration. A center and then a department will facilitate the pursuit of these goals!	
+
+
+* Educate the next generation of school teachers and university teachers,  with a strong focus on digital competences. 
 
 
 ===== Why should we focus on Computational Science and Data Science? =====
