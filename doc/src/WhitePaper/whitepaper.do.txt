@@ -289,7 +289,7 @@ hardware purchases, and startup packages.
 ===== Proposed  steering committee (2018)  =====
 
 o Institute for theoretical Astrophysics and Rosseland Center for Solar Physics: Mats Carlsson and Viggo Hansteen
-o Bioscience: Tom Andersen and Lex Nederbragt
+o Bioscience: Tom Andersen, Marianne Fyhn and Lex Nederbragt
 o Chemistry and Hylleraas Center for Quantum Molecular Sciences: Michele Cascella, Trygve Helgaker and Simen Kvaal
 o Geoscience: John Burkhart, Joe Lacasce and Thomas Vikhamar Schuler
 o IFI Bioinformatics: Torbjørn Rognes
@@ -298,10 +298,11 @@ o Math and Mechanics: Karsten Trulsen and Kent-Andre Mardal, Andreas Carlsson
 o Math and Computational Finance, Statistics and Risk Analysis: Arne Bang Huseby and Geir Olve Storvik
 o Math and Cmputational Mathematics: Geir Dahl, Ragnar Winther, Knut Mørken, Martin Reimers, Michael Floater
 o Physics and Center of Computing in Science Education: Morten Hjorth-Jensen and  Anders Malthe-Sørenssen
-o Medicine: need people
-o UV: Anders Kluge
-o Social Sciences: Kjetil Storsletten and Halvor Mehlum
-o Humanities: need people
+o SIMULA research lab: need people/names
+o Medicine: need people/names
+o UV: Possible person: Anders Kluge?
+o Social Sciences: Possible persons: Kjetil Storsletten and Halvor Mehlum?
+o Humanities: need people/names
 
 
 === Summary of Timeline ===
