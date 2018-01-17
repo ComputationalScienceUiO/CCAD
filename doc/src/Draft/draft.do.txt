@@ -1,6 +1,6 @@
 TITLE: Computing Across the Disciplines (CAD); a new Center/Department at the University of Oslo
 AUTHOR: Morten Hjorth-Jensen at Department of Physics, University of Oslo, Oslo, Norway  and Michigan State University, USA
-DATE: A proposal to the board of the Mat-Nat Fakultetet of the University of Oslo; Establish a center by fall 2018 and as a new department by fall 2021
+DATE: A proposal to the board of the Mat-Nat Fakultetet of the University of Oslo; Establish a center by fall 2018 and as a new department by fall 2020
 
 
 
@@ -119,7 +119,7 @@ o Humanities: need people
 ===== Timeline =====
 
 o Establish a center called _Center for Computing across Disciplines_ by Fall 2018 and co-locate with the new Center for Computing in Science Education
-o Establish a department  called _Department of Computational and Data Sciences_ by Fall 2021
+o Establish a department  called _Department of Computational and Data Sciences_ by Fall 2020
 o "New Master of Science Program on Computational Science starts fall 2018":"http://www.uio.no/english/studies/programmes/computational-science-master/index.html"
 o "New Master of Science Program on Data Science starts fall 2018":"http://www.uio.no/english/studies/programmes/datascience-master/index.html"
 o Extend these Masters progrms to become cross-college programs
@@ -129,10 +129,6 @@ o Submit an application called _Computing Across the Disciplines_ for a Marie Cu
 o Submit an application called _Computing Across the Disciplines_ to the Norwegian Research council by Spring 2019, 10 PhD and 10 PD positions
 o Prepare first draft for an SFF application by  spring 2020
 
-!split
-===== Role and functioning of Center =====
-
-For this part, see the long write-up with details and suggestions
 
 !split
 ===== Role and functioning of Department =====
@@ -144,7 +140,7 @@ For this part, see the long write-up with details and suggestions
 !split
 ===== Centers and Departments at other universities =====
 
-In Norway it is only UiO which offers a Masters program on Computational Science and Data Science. Al other universities have only Master programs on Computer Science. The University of Bergen has a Masters program on Applied Mathematics while UMB has only a Masters on Bioinformatics and Data analysis. These are limited and more focused programs. Nationally, UiO is the only university which offers broad programs in Computational Science and Data Science. 
+In Norway it is only UiO which offers a Masters program on Computational Science and Data Science. All other universities have only Master programs on Computer Science. The University of Bergen has a Masters program on Applied Mathematics while UMB has only a Masters on Bioinformatics and Data analysis. These are limited and more focused programs. Nationally, UiO is the only university which offers broad programs in Computational Science and Data Science. 
 
 |-------------------------------------------------------------------------------------------------------------|
 | Norway | University | Comp Science and Data dept | Bachelor program | Master program | Graduate/PhD program |
