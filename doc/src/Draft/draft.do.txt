@@ -22,6 +22,13 @@ DATE: A proposal to the board of the Mat-Nat Fakultetet of the University of Osl
 * Position UiO  as a leader in computational science by recruiting faculty whose expertise pertains to large-scale computing and mathematical foundations of data science - both generalists (algorithm/tool developers) and specialists (focused on specific disciplines).	
 
 * Develop a comprehensive set of courses and degree programs at both undergraduate and graduate levels that will give students across the university exposure to practical computational methods, understanding how to analyse data and more generally to the idea of computers as problem-solving tools.	
+* Develop an all university PhD program in Computational Science and Data Science
+
+* Develop an all university Master of Science Program in Computational Science and Data Science
+
+* Develop courses and course  modules in Computational Science and Data Science for the private and the public sectors
+
+* Develop a PhD program in Computational Science and Data Science tailored to the needs of the private and the public sectors
 
 * Facilitate the adoption of computational tools and techniques for both research and education across campus, through education and faculty collaboration. A center and then a department will facilitate the pursuit of these goals!	
 
@@ -124,6 +131,9 @@ o "New Master of Science Program on Computational Science starts fall 2018":"htt
 o "New Master of Science Program on Data Science starts fall 2018":"http://www.uio.no/english/studies/programmes/datascience-master/index.html"
 o Extend these Masters progrms to become cross-college programs
 o Establish  a cross-college PhD program in Computational and Data Sciences, start fall 2020. This PhD program will be a collaboration between the Natural Sciences, Humanities, Social Sciences, Medicine and Education. 
+o Develop an all university Master of Science Program in Computational Science and Data Science based on the present Computationa Science and Data Science programs by 2020
+o  Develop courses and course  modules in Computational Science and Data Science for the private and the public sectors as soon as possible, preferentially by fall 2019
+o Develop a PhD program in Computational Science and Data Science tailored to the needs of the private and the public sectors by fall 2020
 o Develop a Bachelor program in Computational Science and Data Science? Need to strike a balance between existing programs and possible new _honors program_. 
 o Submit an application called _Computing Across the Disciplines_ for a Marie Curie training network by spring 2019, 15 PhD positions
 o Submit an application called _Computing Across the Disciplines_ to the Norwegian Research council by Spring 2019, 10 PhD and 10 PD positions
