@@ -319,7 +319,6 @@ o Establish a center called _Center for Computing across Disciplines_ by Fall 20
 o Establish a department  called _Department of Computational and Data Sciences_ by Fall 2020. 
 o "New Master of Science Program on Computational Science starts fall 2018":"http://www.uio.no/english/studies/programmes/computational-science-master/index.html"
 o "New Master of Science Program on Data Science starts fall 2018":"http://www.uio.no/english/studies/programmes/datascience-master/index.html"
-o Extend these Masters programs to become cross-college programs by fall 2020
 o Establish  a cross-college PhD program in Computational and Data Sciences, start fall 2020. This PhD program will be a collaboration between the Natural Sciences, Humanities, Social Sciences, Medicine and Education. 
 o Develop a corresponding cross-college MSc program in Computational Science and Data Science by fall 2020.
 o An undergraduate program in Computational and Data Sciences tailored to various disciplines by fall 2020
