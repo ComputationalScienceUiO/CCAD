@@ -57,7 +57,7 @@ basis  and together with the Center for Computing in Science Education it
 will form a unique powerhouse in educational transformations. The new
 department will
 
-o Develop a comprehensive set of courses and degree programs at both undergraduate and graduate levels that will give students across the university exposure to practical computational methods, understanding how to analyse data and more generally to the idea of computers as problem-solving tools.	
+o Develop a comprehensive set of courses and degree programs at both undergraduate and graduate levels that will give students across the university exposure to practical computational methods, understanding how to analyse data and more generally to the idea of computers as problem-solving tools. These courses will also Software Carpentry and Data Carpentry courses. The courses and the degree programs can also be offered as intensive training courses and programs.	
 
 o Facilitate the adoption of computational tools and techniques for both research and education across campus, through education and faculty collaboration. A center and then a department will facilitate the pursuit of these goals!	
 o Develop an all university PhD program in Computational Science and Data Science.

@@ -21,7 +21,7 @@ DATE: A proposal to the board of the Mat-Nat Fakultetet of the University of Osl
 
 * Position UiO  as a leader in computational science by recruiting faculty whose expertise pertains to large-scale computing and mathematical foundations of data science - both generalists (algorithm/tool developers) and specialists (focused on specific disciplines).	
 
-* Develop a comprehensive set of courses and degree programs at both undergraduate and graduate levels that will give students across the university exposure to practical computational methods, understanding how to analyse data and more generally to the idea of computers as problem-solving tools.	
+* Develop a comprehensive set of courses and degree programs at both undergraduate and graduate levels that will give students across the university exposure to practical computational methods, understanding how to analyse data and more generally to the idea of computers as problem-solving tools. These courses will also include Software Carpentry and Data Carpentry. The courses and degree programs can also be tailored to external users.	
 * Develop an all university PhD program in Computational Science and Data Science
 
 * Develop an all university Master of Science Program in Computational Science and Data Science
