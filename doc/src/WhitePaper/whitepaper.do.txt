@@ -347,3 +347,12 @@ The goal in Oslo is to establish a department which covers both Computational Sc
 
 The Society for Industrial and Applied Mathematics (SIAM) "keeps track of graduate programs in computational Science":"https://www.siam.org/students/resources/cse_programs.php". The list is most likely not complete. 
 
+=====  Appendix A: Examples of Department other places =====
+
+o Mention the hire of top level researchers at MSU, for example development of NUMBA
+o Add info about other places in Europe and Northern America
+
+=====  Appendix B: Structure and functioning of department  =====
+
+o Educational programs
+o Research activities
