@@ -238,20 +238,20 @@ The enclosed appendices contain more details about the structure of the planned 
 
 ===== Appendix A: Proposed  steering committee (2018)  =====
 
-o Institute for theoretical Astrophysics and Rosseland Center for Solar Physics: Mats Carlsson and Viggo Hansteen
-o Bioscience: Marianne Fyhn and Lex Nederbragt
+o Institute for theoretical Astrophysics and Rosseland Center for Solar Physics: Mats Carlsson
+o Bioscience: Tom Andersen, Marianne Fyhn and "Lex Nederbragt":"http://www.mn.uio.no/cees/english/people/technical/alexajo/"
 o Chemistry and Hylleraas Center for Quantum Molecular Sciences: Michele Cascella, Trygve Helgaker and Simen Kvaal
-o Geoscience: John Burkhart, Joe Lacasce and Thomas Vikhamar Schuler
-o IFI Bioinformatics: Torbjørn Rognes
-o IFI Imaging and Biomedical Computing (coupling to Simula): Andreas Austeng, Xing Cai, Joakim Sundnes and Simon Funke
-o Math and Mechanics: Karsten Trulsen and Kent-Andre Mardal, Andreas Carlsson
+o Geoscience: "John Burkhart":"http://www.mn.uio.no/geo/english/people/aca/geohyd/johnbur/index.html", "Joe Lacasce":"http://www.mn.uio.no/geo/english/people/aca/metos/josepl/" and "Thomas Vikhamar Schuler":"http://www.mn.uio.no/geo/english/people/aca/geohyd/thomasc/"
+o IFI Bioinformatics: Torbjørn Rognes and Geir Kjetil Sandve
+o IFI Imaging and Biomedical Computing: Andreas Austeng, "Xing Cai":"http://www.mn.uio.no/ifi/personer/vit/xingca/index.html", "Joakim Sundnes":"http://www.mn.uio.no/ifi/english/people/aca/sundnes/index.html"
+o Math and Mechanics: Karsten Trulsen and "Kent-Andre Mardal":"https://folk.uio.no/kent-and/"
 o Math and Computational Finance, Statistics and Risk Analysis: Arne Bang Huseby and Geir Olve Storvik
-o Math and Cmputational Mathematics: Geir Dahl, Ragnar Winther, Knut Mørken, Martin Reimers, Michael Floater
-o Physics and Center of Computing in Science Education: Morten Hjorth-Jensen and  Anders Malthe-Sørenssen
-o SIMULA research lab: Xing Cai, Joakim Sundnes, Simon Funke and Aslak Tveito
-o Economy: Possible persons: Kjetil Storsletten and Halvor Mehlum
-o Political Science: Bjørn Høyland
-o Medicine: Arnoldo Frigessi
+o Math and Cmputational Mathematics: Geir Dahl, Ragnar Winther, "Knut Mørken":"http://www.mn.uio.no/math/personer/vit/knutm/index.html", Martin Reimers
+o Physics and Center of Computing in Science Education: "Morten Hjorth-Jensen":"http://mhjgit.github.io/info/doc/web/" and  "Anders Malthe-Sørenssen":"http://www.mn.uio.no/fysikk/english/people/aca/malthe/"
+o SIMULA research lab: "Xing Cai":"http://www.mn.uio.no/ifi/personer/vit/xingca/index.html", "Simon Funke":"https://www.simula.no/people/simon", Marie Rognes, "Joakim Sundnes":"http://www.mn.uio.no/ifi/english/people/aca/sundnes/index.html", and "Aslak Tveito":"https://www.simula.no/people/aslak"
+o Economy: Kjetil Storsletten and Halvor Mehlum? Tentative
+o Political Science: Bjørn Høyland? Tentative
+o Medicine: Arnoldo Frigessi? Tentative
 o UV: Possible person:  need people/names
 o Humanities: need people/names
 
