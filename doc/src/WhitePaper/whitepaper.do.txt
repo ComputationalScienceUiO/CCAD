@@ -2,7 +2,6 @@ TITLE: Computing Across the Disciplines (CAD); a new Department at the Universit
 AUTHOR: Morten Hjorth-Jensen at Department of Physics, University of Oslo, Oslo, Norway  and Department of Physics and Astronomy, Michigan State University, USA
 DATE: A proposal to the board of the Mat-Nat Fakultetet of the University of Oslo; Establish a center (Center for Computing Across the Disciplines) by fall 2018 and as a new department (Department of Computational and Data Sciences) by fall 2020
 
-
 ===== Executive Summary =====
 
 
