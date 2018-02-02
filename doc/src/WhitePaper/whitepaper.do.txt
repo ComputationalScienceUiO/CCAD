@@ -239,7 +239,7 @@ The enclosed appendices contain more details about the structure of the planned 
 
 #o Institute for theoretical Astrophysics and Rosseland Center for Solar Physics: Mats Carlsson
 o Bioscience: "Tom Andersen":"http://www.mn.uio.no/ibv/english/people/aca/tomand/", "Marianne Fyhn":"http://www.mn.uio.no/ibv/english/people/aca/mariafy/" and "Lex Nederbragt":"http://www.mn.uio.no/cees/english/people/technical/alexajo/"
-o Chemistry and Hylleraas Center for Quantum Molecular Sciences: Michele Cascella, Trygve Helgaker and Simen Kvaal
+o Chemistry and Hylleraas Center for Quantum Molecular Sciences: "Michele Cascella":"https://www.mn.uio.no/kjemi/english/people/aca/michelec/"
 o Geoscience: "John Burkhart":"http://www.mn.uio.no/geo/english/people/aca/geohyd/johnbur/index.html", "Joe Lacasce":"http://www.mn.uio.no/geo/english/people/aca/metos/josepl/" and "Thomas Vikhamar Schuler":"http://www.mn.uio.no/geo/english/people/aca/geohyd/thomasc/"
 #o IFI Bioinformatics: Torbjørn Rognes and Geir Kjetil Sandve
 o IFI: "Xing Cai":"http://www.mn.uio.no/ifi/personer/vit/xingca/index.html", "Joakim Sundnes":"http://www.mn.uio.no/ifi/english/people/aca/sundnes/index.html"
@@ -356,7 +356,9 @@ the current QAs will outperform classical exascale class simulations. Therefore,
 scientific computing on a more relevant time scale, improving the scalability and efficiency of
 quantum simulation algorithms is of the highest importance. Developments in quantum information algorithms and their mathematical properties, as well as their applications will play a critical role in studies of relevance for a wide variety of fields, from the design and studies of new materials to our basic understanding of systems of interest in chemistry and physics. The new department, in close collaboration with disciplinary experts, can play an essential role in developing this field by hiring world-leading experts in quantum information theory and quantum computing. 
 
+=== Computational Social Science ===
 
+Survey data, the engine of the behavioral revolution of the social sciences is about to run its course, with low response rate and poorly representative samples being the norm rather than the exception.  Fortunately, vast amount of new information from social media, via digitalized governmental archives, to population registries are opening up new exiting avenues for innovative social science research, such as paternity leave and children’s performance in school, extent of censorship in Chinese online new reporting, or conditions for receptiveness to fake news. Moreover, the new data availability in combination with tools from machine-learning has spurred an interest in prediction and sophisticated policy-recommendations, ranging from optimize relocation of immigrants given their skill-set and local labor market needs, via probabilistic detection of election fraud, to forecasting of popular unrest and civil war. The undertaking of such research questions was, until recently, outside the realm of social science. There are however limits to the amount of new insights that can be obtained purely from richer data and “black-box” import of machine-learning tools. More robust, new insights require similar steps to be taken in the development of applied, testable, theoretical models to facilitate direct empirical evaluations of the model dynamics and the consistency of the model with the data. Such a step requires a solid grounding in computing.
 
 === Computational Science and data science in Mathematics and all of the physical sciences ===
 
