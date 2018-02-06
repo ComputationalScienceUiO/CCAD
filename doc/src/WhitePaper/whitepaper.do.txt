@@ -296,7 +296,7 @@ The joint appointments with other departments will play an important role in cem
 One can view the new department as a hub which focuses on Algorithms, Computing, Big Data, Mathematics, Quantum Computing, Machine Learning and Statistical Analysis in close collaboration with scientists working from the Physical Sciences (Chemistry, Astrophysics, Physics, Geoscience, Mechanics, Materials Science), Life Science (Bioscience and Medicine), Law, Education, Social Sciences and the Humanities. The new department will develop and strengthen the field of Computational Science and Data Science in close collaboration with all involved departments, increasing thereby the overall general competences of our students and scientific staff on these topics. 
 The following figure illustrates schematically these links, with the two inner circles representing the most likely key research activities of the new department. 
 
-o Figure will be added
+FIGURE: [figslides/topics.png, width=500 frac=0.6]
 
 === Funding ===
 In order to secure funding in addition to those guaranteed by the University and the ministry of education and research, the department will seek assiduously center funding  from the Norwegian SFF and SFI system (under the auspices of the Research Council of Norway) as well as similar funding possibilities  from the EU. In addition, we expect the tenured faculty to bring in regular research grants either from industry, the Research Council of Norway or the EU. 
@@ -480,7 +480,7 @@ Examples of interest in Europe are the
 * "Swiss Institute of Computational Science":"https://www.ics.usi.ch/"
 while in Austria we have the 
 * "Vienna Graduate School in Computational Science":"http://www.csc.univie.ac.at/ik/"
-add about
+
 The Society for Industrial and Applied Mathematics (SIAM) "keeps track of graduate programs in computational Science":"https://www.siam.org/students/resources/cse_programs.php". The list is most likely not complete. 
 
 
