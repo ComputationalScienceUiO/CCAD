@@ -235,17 +235,17 @@ The enclosed appendices contain more details about the structure of the planned 
 
 
 
-===== Appendix A: Proposed  steering committee (2018)  =====
+===== Appendix A: Proposed  working group  (2018)  =====
 
 #o Institute for theoretical Astrophysics and Rosseland Center for Solar Physics: Mats Carlsson
 o Bioscience: "Tom Andersen":"http://www.mn.uio.no/ibv/english/people/aca/tomand/", "Marianne Fyhn":"http://www.mn.uio.no/ibv/english/people/aca/mariafy/" and "Lex Nederbragt":"http://www.mn.uio.no/cees/english/people/technical/alexajo/"
 o Chemistry and Hylleraas Center for Quantum Molecular Sciences: "Michele Cascella":"https://www.mn.uio.no/kjemi/english/people/aca/michelec/"
 o Geoscience: "John Burkhart":"http://www.mn.uio.no/geo/english/people/aca/geohyd/johnbur/index.html", "Joe Lacasce":"http://www.mn.uio.no/geo/english/people/aca/metos/josepl/" and "Thomas Vikhamar Schuler":"http://www.mn.uio.no/geo/english/people/aca/geohyd/thomasc/"
 #o IFI Bioinformatics: Torbjørn Rognes and Geir Kjetil Sandve
-o IFI: "Xing Cai":"http://www.mn.uio.no/ifi/personer/vit/xingca/index.html", "Joakim Sundnes":"http://www.mn.uio.no/ifi/english/people/aca/sundnes/index.html"
+o IFI: "Andreas Austeng":"https://www.mn.uio.no/ifi/personer/vit/andrea/","Xing Cai":"http://www.mn.uio.no/ifi/personer/vit/xingca/index.html", "Joakim Sundnes":"http://www.mn.uio.no/ifi/english/people/aca/sundnes/index.html"
 o Math: "Kent-Andre Mardal":"https://folk.uio.no/kent-and/" and "Knut Mørken":"http://www.mn.uio.no/math/personer/vit/knutm/index.html", Martin Reimers
 o Physics and Center of Computing in Science Education: "Morten Hjorth-Jensen":"http://mhjgit.github.io/info/doc/web/" and  "Anders Malthe-Sørenssen":"http://www.mn.uio.no/fysikk/english/people/aca/malthe/"
-o SIMULA research lab: "Xing Cai":"http://www.mn.uio.no/ifi/personer/vit/xingca/index.html", "Simon Funke":"https://www.simula.no/people/simon", Marie Rognes, "Joakim Sundnes":"http://www.mn.uio.no/ifi/english/people/aca/sundnes/index.html", and "Aslak Tveito":"https://www.simula.no/people/aslak"
+o SIMULA research lab: "Xing Cai":"http://www.mn.uio.no/ifi/personer/vit/xingca/index.html", "Simon Funke":"https://www.simula.no/people/simon", "Marie Rognes":"https://marierognes.org/", "Joakim Sundnes":"http://www.mn.uio.no/ifi/english/people/aca/sundnes/index.html", and "Aslak Tveito":"https://www.simula.no/people/aslak"
 o Economy: Kjetil Storsletten and Halvor Mehlum? Tentative
 o Political Science: "Bjørn Høyland":"http://www.sv.uio.no/isv/personer/vit/bjornkho/"
 o Medicine: Arnoldo Frigessi? Tentative
@@ -264,7 +264,7 @@ model/algorithm development from a domain-specific perspective, enabling applica
 approximations and optimization of performance on exascale problems. The nexus of these
 groups is what makes CDS unique.
 
-The cross-disciplinary  steering committee that developed this
+The cross-disciplinary  working group  that developed this
 proposal seeks the creation of a joint, inter-college department as the ideal solution. This
 structure, where tenure lines would be housed, is necessary to facilitate the recruiting of a core
 group of faculty whose focus is on algorithmic science that can be applied to new scientific
@@ -309,6 +309,12 @@ Below we discuss several  possible research directions where  faculty hires can 
 ===== Appendix C:  Sampling of new and transformational science that will  be enabled by the new department  =====
 
 There are several new and emerging research directions where the new department will play and can play a major role. 
+
+
+=== Computational life science ===
+The Life Sciences is transforming with the explosion of High-throughput data generation technologies and the need for integrating these across all the levels of the biological hierarchy. A 'system-dynamic' (Systems Biology) approach will dominate research in the coming decades. Here, computational modelling to integrate the various data types and data sets will be a driving force. Similar developments are seen in the field of molecular image analysis, where computational methods to integrate the image streams will become essential to make sense of the growing amount of data. Translational Bioinformatics, bridging the gap between the laboratory, computer and the clinic, with the ultimate goal of personalised medicine, is an important, and exciting new dimension. Many of these developments require cross-disciplinary thinking, and often breakthroughs in Bioinformatics/Computational Life Science start with creatively adjusting and implementing algorithmic or computational solutions originally developed for other fields. A CDS department that has multidisciplinarity as its founding principle, and brings computationally skilled researchers from many fields together, will provide a solid foundation for researchers working towards these developments.
+
+
 
 === Develop data-driven discovery research programs utilizing recent developments in machine learning ===
 
@@ -360,23 +366,19 @@ quantum simulation algorithms is of the highest importance. Developments in quan
 
 Survey data, the engine of the behavioral revolution of the social sciences is about to run its course, with low response rate and poorly representative samples being the norm rather than the exception.  Fortunately, vast amount of new information from social media, via digitalized governmental archives, to population registries are opening up new exiting avenues for innovative social science research, such as paternity leave and children’s performance in school, extent of censorship in Chinese online new reporting, or conditions for receptiveness to fake news. Moreover, the new data availability in combination with tools from machine-learning has spurred an interest in prediction and sophisticated policy-recommendations, ranging from optimize relocation of immigrants given their skill-set and local labor market needs, via probabilistic detection of election fraud, to forecasting of popular unrest and civil war. The undertaking of such research questions was, until recently, outside the realm of social science. There are however limits to the amount of new insights that can be obtained purely from richer data and “black-box” import of machine-learning tools. More robust, new insights require similar steps to be taken in the development of applied, testable, theoretical models to facilitate direct empirical evaluations of the model dynamics and the consistency of the model with the data. Such a step requires a solid grounding in computing.
 
+
+
 === Computational Science and data science in Mathematics and all of the physical sciences ===
 
-More text to come
-=== Bioinformatics ===
 
 More text to come
 === Computational Geoscience ===
 
 More text to come
-=== Computational life science ===
 
-More text to come
 === Computational Materials Science ===
 More text to come
 
-=== Computational economy and data science and computing in the social science ===
-More text to come
 
 === Data science and computing in the Humanities ===
 
