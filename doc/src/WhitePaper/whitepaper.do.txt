@@ -12,9 +12,12 @@ internationally in scientific discovery through large-scale
 computations and data-driven research. The aim is to position UiO as a leader in
 computational and data sciences by recruiting faculty whose expertise pertains
 to large-scale computing and mathematical foundations of data science - both generalists (algorithm/tool developers) and specialists
-(focused on specific disciplines).
+(focused on specific disciplines).  
 
 FIGURE: [figslides/cs.jpg, width=500 frac=0.6]
+
+
+
 
 We propose a two-step process
 * By fall 2018 establish first a center, called _Center for Computing Across the Disciplines_,  which will lay the foundation for cross-disciplinary activities and establish the necessary foundations and preparations for launching a new department. The center will be colocalized with the existing center for Computing in Science Education. It will develop research projects across disciplines as well as develop educational programs and initatives related to the establishment of the new department. An alternative is to skip the center stage and move directly with plans for a new department.  
@@ -99,7 +102,7 @@ Scientific computing plays a central role in scientific investigations and is ce
 Furthermore, the "3rd Industrial Revolution":"http://www.economist.com/node/21553017" will alter significantly the demands on the workforce. To adapt a highly-qualified workforce to coming challenges  requires strong fundamental bases in STEM fields. Computational Science can provide such bases at all stages. Most of our students at both the undergraduate and the graduate level are unprepared to use computational modeling, data science, and high performance computing – skills valued by a very broad range of employers. The new department will also focus on the development of courses in computational science and data science tailored to the needs of the rest of society, both for the private and the public sector.
 
 These developments, needs and future challenges, as well as
-the developments which are now taking place within quantum computing, quantum information and data driven discoveries (data analysis and machine learning) will play an essential role in shaping future technological developments. Most of these developments require true cross-disciplinary approaches, approaches which normally cannot be accomplished within the realms of one single disciplinary-based department. 
+the developments which are now taking place within "quantum computing, quantum information":"https://www.aps.org/publications/apsnews/201802/ostp.cfm?utm_source=APS+Physics+Main+Group&utm_campaign=fb7a2e7d6b-News+021218&utm_medium=email&utm_term=0_825303224b-fb7a2e7d6b-106513221" and data driven discoveries (data analysis and machine learning) will play an essential role in shaping future technological developments. Most of these developments require true cross-disciplinary approaches, approaches which normally cannot be accomplished within the realms of one single disciplinary-based department. 
 
 Modern problems in science and engineering bridge a vast range of temporal and spatial scales
 and include a wide variety of physical processes. The analysis of such problems is not possible, so
@@ -174,7 +177,7 @@ The aim here is to extend this to include
 
 * Computational Science and Data Science in Mathematics and all of the physical sciences (Astrophysics, Chemistry, Geoscience and Physics)
 * Bioinformatics
-* Develop research programs in Quantum Computing and Quantum Information theory
+* Develop research programs in "Quantum Computing and Quantum Information theory":"https://www.aps.org/publications/apsnews/201802/ostp.cfm?utm_source=APS+Physics+Main+Group&utm_campaign=fb7a2e7d6b-News+021218&utm_medium=email&utm_term=0_825303224b-fb7a2e7d6b-106513221". Many universities are now developing research and "educational strategies in Quantum Computing":"https://vprgs.msu.edu/event/interdisciplinary-forum-quantum-information-science"
 * Develop data-driven discovery research programs utilizing recent developments in machine learning
 * Computational life science
 * Computational Materials Science
@@ -217,19 +220,25 @@ education, a topic of critical importance that has thus far received little scho
 
 === Long term goals and sustainability ===
 
-The overall goal of this department is to bring together world-leading faculty who combine the
-most important aspects of computation and disciplinary research, thus enabling cutting-edge
-interdisciplinary science and the training of both undergraduate and graduate students. This will
-be realized by the securing of Center-level funding (as well as many single- or few-PI grants), as
-well as the creation of a coherent academic program with large undergraduate and graduate
-enrollments. We anticipate that each PI will bring in grants that sustain graduate students, post-docs, travel and other
-associated expenses.
-In order to ensure the success of these efforts, the proposed department must be financially
-sustainable. Continued funding (beyond faculty and support staff salaries) is necessary to
-support fellowships for top graduate students, speaker series and honoraria, visitor support,
-hardware purchases, and startup packages. 
+The overall goal of this department is to bring together world-leading
+faculty who combine the most important aspects of computation and
+disciplinary research, thus enabling cutting-edge interdisciplinary
+science and the training of both undergraduate and graduate
+students. The department will be economically sustained through the standard base
+university funding, as any other department at Norwegian universities. 
+However, additional funds will be
+realized by the securing for example Center-level funding (as well as many
+single- or few-PI grants), as well grants obtained the PIs that sustain graduate
+students, post-docs, travel and other associated expenses.  In order
+to ensure the success of these efforts, the proposed department must
+be financially sustainable. Basic university funding (beyond faculty
+and support staff salaries) is necessary to support fellowships for
+top graduate students, speaker series and honoraria, visitor support,
+hardware purchases, and startup packages.
 
-The enclosed appendices contain more details about the structure of the planned department, with research and education plans. Links to similar and recently established departments are also presented. 
+The enclosed appendices contain more details about the structure of
+the planned department, with research and education plans. Links to
+similar and recently established departments are also presented.
 
 
 
@@ -238,7 +247,7 @@ The enclosed appendices contain more details about the structure of the planned 
 
 ===== Appendix A: Proposed  working group  (2018)  =====
 
-#o Institute for theoretical Astrophysics and Rosseland Center for Solar Physics: Mats Carlsson
+
 o Bioscience: "Tom Andersen":"http://www.mn.uio.no/ibv/english/people/aca/tomand/", "Marianne Fyhn":"http://www.mn.uio.no/ibv/english/people/aca/mariafy/" and "Lex Nederbragt":"http://www.mn.uio.no/cees/english/people/technical/alexajo/"
 o Chemistry and Hylleraas Center for Quantum Molecular Sciences: "Michele Cascella":"https://www.mn.uio.no/kjemi/english/people/aca/michelec/"
 o Geoscience: "John Burkhart":"http://www.mn.uio.no/geo/english/people/aca/geohyd/johnbur/index.html", "Joe Lacasce":"http://www.mn.uio.no/geo/english/people/aca/metos/josepl/" and "Thomas Vikhamar Schuler":"http://www.mn.uio.no/geo/english/people/aca/geohyd/thomasc/"
@@ -296,7 +305,7 @@ The joint appointments with other departments will play an important role in cem
 One can view the new department as a hub which focuses on Algorithms, Computing, Big Data, Mathematics, Quantum Computing, Machine Learning and Statistical Analysis in close collaboration with scientists working from the Physical Sciences (Chemistry, Astrophysics, Physics, Geoscience, Mechanics, Materials Science), Life Science (Bioscience and Medicine), Law, Education, Social Sciences and the Humanities. The new department will develop and strengthen the field of Computational Science and Data Science in close collaboration with all involved departments (from the MNfak and other colleges), increasing thereby the overall general competences of our students and scientific staff on these topics. 
 The following figure illustrates schematically these links, with the two inner circles representing the most likely key research activities of the new department. 
 
-FIGURE: [figslides/topics.png, width=500 frac=0.6]
+FIGURE: [figslides/topics.png, width=500 frac=1.0]
 
 === Funding ===
 In order to secure funding in addition to those guaranteed by the University and the ministry of education and research, the department will seek assiduously center funding  from the Norwegian SFF and SFI system (under the auspices of the Research Council of Norway) as well as similar funding possibilities  from the EU. In addition, we expect the faculty to bring in regular research grants either from industry, the Research Council of Norway or the EU. 
