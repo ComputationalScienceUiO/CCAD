@@ -1,5 +1,5 @@
 TITLE: Computing Across the Disciplines (CAD); How UiO should meet the Future
-AUTHOR: "Contact person Morten Hjorth-Jensen at Department of Physics, University of Oslo":" "
+AUTHOR: "Contact person Morten Hjorth-Jensen at Department of Physics, University of Oslo":"http://mhjgit.github.io/info/doc/web/"
 DATE: A whitepaper on how to organize Computational Science and Data Science initiatives at UiO, prepared for the Mat-Nat Fakultetet of the University of Oslo
 
 ===== Executive Summary =====
