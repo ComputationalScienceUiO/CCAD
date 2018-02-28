@@ -500,7 +500,27 @@ field, and one which will make major inroads to the earth sciences in
 the future.
 
 
-=== Machine learning and educational programs ===
+=== Machine learning in education research ===
+
+Quantitative education research has historically been done at the
+micro-scale (classrooms) and the macro-scale (K-12, baccalaureate
+degree programs, etc.). Micro-scale research has been done using
+traditional correlational statistics with data gathered from surveys,
+conceptual tests, classroom observations, etc. With the advent of the
+*digital classroom* student behavior can now be examined in fine
+grain. Students access of online homework platforms, video lectures,
+and interactions with peers via online course forums has created new
+data sources for education researchers. New technologies such as
+computer textual analysis can pick apart student conceptual
+understanding of hard concepts in science and mathematics. Intelligent
+tutors can provide real time feedback to students as they solve
+problems. At the macro-scale students’ career decisions within their
+programs can be modeled. What courses they choose to take, who they
+choose to take courses from, and their comments on said courses, form
+new data sets which can be used to predict student decisions and
+provide timely feedback to students and faculty advisers. Ultimately
+these data sets can form a high dimensional picture of student
+learning painted by machine learning.
 
 
 ===== Appendix D:  Outline of degree programs and courses  =====
