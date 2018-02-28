@@ -53,7 +53,7 @@ o a new Department of Computational and Data Sciences (CDS) that is administered
 o the injection of 25-30 new faculty  focusing on the science of computational modeling and data science;
 o the foundation for developing joint cutting-edge graduate and undergraduate programs. 
 
-The new faculty will thus be tasked with developing new research and educational programs in Computational Science and Data Science. The hired faculty will have shared positions with existing departments (for example a 70% position at the CSD department and 30% at the department of Physics), similarly, faculty at existing departments will have shared positions at the new department. This will ensure transfer of knowledge as well as the establishment of new and cross-disciplinary research and  oversee the development of new educational programs and efforts. 
+The new faculty will thus be tasked with developing new research and educational programs in Computational Science and Data Science. The hired faculty will have shared positions with existing departments (for example a 70% position at the CDS department and 30% at the department of Physics), similarly, faculty at existing departments will have shared positions at the new department. This will ensure transfer of knowledge as well as the establishment of new and cross-disciplinary research and  oversee the development of new educational programs and efforts. 
 A center solution cannot ensure the long-term sustainability of all these activities. A single department will also not be able to oversee the truly at large cross-disciplinary foundation of Computational Science and Data Science. 
 
 
@@ -277,12 +277,12 @@ o Geoscience: "John Burkhart":"http://www.mn.uio.no/geo/english/people/aca/geohy
 #o IFI Bioinformatics: Torbjørn Rognes and Geir Kjetil Sandve
 o IFI: "Andreas Austeng":"https://www.mn.uio.no/ifi/personer/vit/andrea/","Xing Cai":"http://www.mn.uio.no/ifi/personer/vit/xingca/index.html", "Joakim Sundnes":"http://www.mn.uio.no/ifi/english/people/aca/sundnes/index.html"
 o Math: "Kent-Andre Mardal":"https://folk.uio.no/kent-and/" and "Knut Mørken":"http://www.mn.uio.no/math/personer/vit/knutm/index.html"
-o Physics and Center of Computing in Science Education: "Morten Hjorth-Jensen":"http://mhjgit.github.io/info/doc/web/" and  "Anders Malthe-Sørenssen":"http://www.mn.uio.no/fysikk/english/people/aca/malthe/"
+o Physics and Center of Computing in Science Education: John Mark Aiken, "Morten Hjorth-Jensen":"http://mhjgit.github.io/info/doc/web/" and  "Anders Malthe-Sørenssen":"http://www.mn.uio.no/fysikk/english/people/aca/malthe/"
 o SIMULA research lab: "Xing Cai":"http://www.mn.uio.no/ifi/personer/vit/xingca/index.html", "Simon Funke":"https://www.simula.no/people/simon", "Marie Rognes":"https://marierognes.org/", "Joakim Sundnes":"http://www.mn.uio.no/ifi/english/people/aca/sundnes/index.html", and "Aslak Tveito":"https://www.simula.no/people/aslak"
 #o Economy: Kjetil Storsletten and Halvor Mehlum? Tentative
 o Political Science: "Bjørn Høyland":"http://www.sv.uio.no/isv/personer/vit/bjornkho/"
 o Department of Sociology and Human Geography: "Torkild Hovde Lyngstad":"http://www.sv.uio.no/iss/english/people/aca/torkildl/"
-
+o Department of Psychology: "Nikolai Olavi Czajkowski":"http://www.sv.uio.no/psi/english/people/aca/nikolaic/index.html"
 
 
 
@@ -328,7 +328,7 @@ The joint appointments with other departments will play an important role in cem
 One can view the new department as a hub which focuses on Algorithms, Computing, Big Data, Mathematics, Quantum Computing, Machine Learning and Statistical Analysis in close collaboration with scientists working from the Physical Sciences (Chemistry, Astrophysics, Physics, Geoscience, Mechanics, Materials Science), Life Science (Bioscience and Medicine), Law, Education, Social Sciences and the Humanities. The new department will develop and strengthen the field of Computational Science and Data Science in close collaboration with all involved departments (from the MNfak and other colleges), increasing thereby the overall general competences of our students and scientific staff on these topics. 
 The following figure illustrates schematically these links, with the two inner circles representing the most likely key research activities of the new department. 
 
-FIGURE: [figslides/topics.png, width=1000 frac=1.0]
+FIGURE: [figslides/topics.png, width=800 frac=1.0]
 
 === Funding ===
 In order to secure funding in addition to those guaranteed by the University and the ministry of education and research, the department will seek assiduously center funding  from the Norwegian SFF and SFI system (under the auspices of the Research Council of Norway) as well as similar funding possibilities  from the EU. In addition, we expect the faculty to bring in regular research grants either from industry, the Research Council of Norway or the EU. 
