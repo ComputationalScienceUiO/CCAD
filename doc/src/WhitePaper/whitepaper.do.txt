@@ -1,4 +1,4 @@
-TITLE: Computing Across the Disciplines (CAD): How UiO should meet the Future
+TITLE: Computing Across the Disciplines: How UiO should meet the Future
 AUTHOR: "Contact person: Morten Hjorth-Jensen, Department of Physics, University of Oslo":"http://mhjgit.github.io/info/doc/web/"
 DATE: A whitepaper on how to organize Computational Science and Data Science initiatives at UiO, prepared for the Mat-Nat Fakultetet of the University of Oslo
 
@@ -12,12 +12,23 @@ computational and data sciences by recruiting faculty whose expertise pertains
 to large-scale computing and mathematical foundations of data science - both generalists (algorithm/tool developers) and specialists
 (focused on specific disciplines).  
 
-Modern scientists increasingly rely on computational modeling and data
-analysis to explore and understand the natural world. Given the
-ubiquitous use in research and education and its critical importance
-for societal development, computational science and data science play
-a central role in progress and scientific developments in the 21st
-Century.  This document aims at developing strategies for meeting
+Scientific computing plays a central role in scientific investigations
+and is central to innovation in most domains of our lives. It
+underpins the majority of today's technological, economic and societal
+feats. We have entered an era in which huge amounts of data offer
+enormous opportunities, but only to those who are able to harness
+them.  "By 2020, it is also expected that one out of every two jobs in
+the STEM (Science, Technology, Engineering and Mathematics) fields
+will be in computing":"http://pathways.acm.org/executive-summary.html"
+(Association for Computing Machinery, 2013).
+
+Furthermore, the "3rd Industrial Revolution":"http://www.economist.com/node/21553017" will alter significantly the demands on the workforce. To adapt a highly-qualified workforce to coming challenges  requires strong fundamental bases in STEM fields. Computational Science can provide such bases at all stages. Most of our students at both the undergraduate and the graduate level are unprepared to use computational modeling, data science, and high performance computing – skills valued by a very broad range of employers. The new department will also focus on the development of courses in computational science and data science tailored to the needs of the rest of society, both for the private and the public sector.
+
+These developments, needs and future challenges, as well as
+the developments which are now taking place within "quantum computing, quantum information":"https://www.aps.org/publications/apsnews/201802/ostp.cfm?utm_source=APS+Physics+Main+Group&utm_campaign=fb7a2e7d6b-News+021218&utm_medium=email&utm_term=0_825303224b-fb7a2e7d6b-106513221" and data driven discoveries (data analysis and machine learning) will play an essential role in shaping future technological developments. Most of these developments require true cross-disciplinary approaches, approaches which normally cannot be accomplished within the realms of one single disciplinary-based department. 
+
+
+This document aims at developing strategies for meeting
 these future challenges.  One important step in order to meet the
 future, is the hiring of new researchers and faculty with the
 competences and skills which are needed in order to harness the many
@@ -27,28 +38,25 @@ strategies that can serve our society at large.
 
 FIGURE: [figslides/cs.jpg, width=500 frac=0.7]
 
-There are several possible ways to meet these challenges and the
-present document offers an analysis of some of these.
-The present version of the document focuses on the establishment of a new department. 
+There are several possible ways to meet these challenges. The present document
+focuses on the establishment of a new department (or possibly a center) on Computational and data Sciences. In Appendix A other organizational possibilities are presented without an in depth analysis. 
 
-Other possibilities that will be explored are: 
-o The establishment of one or more centers in Computational Science and Data Science. The center(s) will lay the foundation for cross-disciplinary activities and establish the necessary foundations and preparations for launching for example a new department. It will develop research projects across disciplines as well as develop educational programs and initatives related to the establishment of an eventual new department or modification of existing departments.
-o A cluster hire at various departments in order to strengthen overall research and educational competences in computational science and data science. The center could coordinate such activities or alternatively the new department. Here one could think of for example 3-5 new positions in Computational Mathematics at the Department of Mathematics, a similar amount in Physics, Bioscience, Geoscience, Economy, Social Science etc.;
-o The enlargement/change/extension of existing departments. As an example, the present Department of Mathematics could be enlarged in order to accomodate the future needs. 
-
-Irrespective of ways of organizing these activities, the university of Oslo will need to hire at least some 25-30 new faculty in order to meet future challenges. Many of the needed competences and research area are only weakly covered, or are non-existing, by present faculty. 
+Irrespective of ways of organizing these activities, the university of
+Oslo will need to hire at least some 25-30 new faculty in order to
+meet future challenges. Many of the needed competences and research
+area are only weakly covered, or are non-existing, by present faculty.
 
 We propose thus a two-step process
 * Establish a working group by April 1 2018. This working group  will be tasked to deliver a final report with various strategies  by the end of fall 2018.
-* From spring 2019, start the work needed to establish for example a new Department (or center), called _Department of Computational and Data Sciences_ by fall 2020. This department could be colocalized with the new center on life sciences and thus spur the development of computations in the life sciences. The new department will be a hub for innovative thinking and pave the way for research and education in computational and data science across all disciplines. 
+* From spring 2019, start the work needed to establish for example a new Department (or center), called _Department of Computational and Data Sciences_ by fall 2020. The new department will be a hub for innovative thinking and pave the way for research and education in computational and data science across all disciplines. 
 
-The new department and the center as well will be part of the
+The new department (or center) will be part of the
 Matematisk Naturvitenskapelige Fakultetet (MNFak in brief) of the university of Oslo,
 although it aims at becoming a true inter-disciplinary department
 serving all colleges (Law, Natural Science and Mathematics, Medicine,
 the Humanities, Education and the Social Sciences). It is the MNFak
 which will propose to the board of the university of Oslo the
-establishment of both the center and the department.  We propose thus
+establishment of the department (eventually the center).  We propose thus
 o a new Department of Computational and Data Sciences (CDS) that is administered by the MNFak and meant to facilitate interdisciplinary science by fall 2020;
 o the injection of 25-30 new faculty  focusing on the science of computational modeling and data science;
 o the foundation for developing joint cutting-edge graduate and undergraduate programs. 
@@ -87,7 +95,7 @@ department will
 
 o Develop a comprehensive set of courses and degree programs at both undergraduate and graduate levels that will give students across the university exposure to practical computational methods, understanding how to analyse data and more generally to the idea of computers as problem-solving tools. The department will also  develop  Software Carpentry and Data Carpentry courses. The courses and the degree programs can also be offered as intensive training courses and programs.	
 
-o Facilitate the adoption of computational tools and techniques for both research and education across campus, through education and faculty collaboration. A center and then a department will facilitate the pursuit of these goals!	
+o Facilitate the adoption of computational tools and techniques for both research and education across campus, through education and faculty collaboration. A  department will facilitate the pursuit of these goals!	
 o Develop an all university PhD program in Computational Science and Data Science.
 o Based on the new programs (start fall 2018) on Computational Science and Data Sciece, Develop an all university Master of Science Program in Computational Science and Data Science.
 o Develop courses and course modules in Computational Science and Data Science for the private and the public sectors.
@@ -118,14 +126,6 @@ unique degrees across the entire computational space.
 
 
 ===== Why should we focus on developing a department in Computational and Data Sciences? =====
-
-Scientific computing plays a central role in scientific investigations and is central to innovation in most domains of our lives. It underpins the majority of today's technological, economic and societal feats and we have entered an era in which huge amounts of data offer enormous opportunities, but only to those who are able to harness them.
-"By 2020, it is also expected that one out of every two jobs in the STEM (Science, Technology, Engineering and Mathematics) fields will be in computing":"http://pathways.acm.org/executive-summary.html" (Association for Computing Machinery, 2013). 
-
-Furthermore, the "3rd Industrial Revolution":"http://www.economist.com/node/21553017" will alter significantly the demands on the workforce. To adapt a highly-qualified workforce to coming challenges  requires strong fundamental bases in STEM fields. Computational Science can provide such bases at all stages. Most of our students at both the undergraduate and the graduate level are unprepared to use computational modeling, data science, and high performance computing – skills valued by a very broad range of employers. The new department will also focus on the development of courses in computational science and data science tailored to the needs of the rest of society, both for the private and the public sector.
-
-These developments, needs and future challenges, as well as
-the developments which are now taking place within "quantum computing, quantum information":"https://www.aps.org/publications/apsnews/201802/ostp.cfm?utm_source=APS+Physics+Main+Group&utm_campaign=fb7a2e7d6b-News+021218&utm_medium=email&utm_term=0_825303224b-fb7a2e7d6b-106513221" and data driven discoveries (data analysis and machine learning) will play an essential role in shaping future technological developments. Most of these developments require true cross-disciplinary approaches, approaches which normally cannot be accomplished within the realms of one single disciplinary-based department. 
 
 Modern problems in science and engineering bridge a vast range of temporal and spatial scales
 and include a wide variety of physical processes. The analysis of such problems is not possible, so
@@ -188,7 +188,7 @@ The University of Oslo has within several of the STEM fields strong research and
 * Strong links with research laboratories like SIMULA research lab
 * UiO has the potential to develop cross-college educational programs in Computational Science and Data Science, from undergraduate programs to PhD programs that serve also the public and the private sectors
 * The courses to be developed can be offered to train employees and students outside UiO, serving thus the coming needs of for example Machine Learning for the public and the private sectors
-With a center and later a department we have the possibility to really position UiO as the leading Norwegian and perhaps European institution within Computational Science and Data Science.
+With a department (or center) we have the possibility to really position UiO as the leading Norwegian and perhaps European institution within Computational Science and Data Science.
 
 
 
@@ -284,7 +284,27 @@ o Department of Political Science: "Bjørn Høyland":"http://www.sv.uio.no/isv/p
 o Department of Sociology and Human Geography: "Torkild Hovde Lyngstad":"http://www.sv.uio.no/iss/english/people/aca/torkildl/"
 o Department of Psychology: "Nikolai Olavi Czajkowski":"http://www.sv.uio.no/psi/english/people/aca/nikolaic/index.html"
 
+===  Summary of Timeline  ===
 
+o Establish a working group by April 1 2018. The working group will be tasked with evaluating various scenarios for strengthening Computational Science and Data Science at UiO. The report will be finalized during Fall 2018.
+o Start establish from spring 2019 a department (or possible center)  called _Department of Computational and Data Sciences_, with inauguration by end of 2020/begin 2021. 
+o "New Master of Science Program on Computational Science starts fall 2018":"http://www.uio.no/english/studies/programmes/computational-science-master/index.html"
+o "New Master of Science Program on Data Science starts fall 2018":"http://www.uio.no/english/studies/programmes/datascience-master/index.html"
+o Establish  a cross-college PhD program in Computational and Data Sciences, start fall 2020. This PhD program will be a collaboration between the Natural Sciences, Humanities, Social Sciences, Medicine and Education. 
+o Develop a corresponding cross-college MSc program in Computational Science and Data Science by fall 2020.
+o An undergraduate program in Computational and Data Sciences tailored to various disciplines by fall 2020
+o Develop courses and course modules in Computational Science and Data Science for the private and the public sectors by fall 2019.
+o Develop a Master of Science program and a PhD program in Computational Science and Data Science tailored to the needs of the private and the public sectors, allowing for students residing outside UiO to develop their knowledge about Computational Science and Data Science by fall 2021.
+o Submit an application called _Computing Across the Disciplines_ for a Marie Curie training network by spring 2019, 15 PhD positions
+
+===  Alternative paths to be explored ===
+
+The present version of the document focuses on the establishment of a new department. 
+
+Other possibilities that should be explored are: 
+o The establishment of one or more centers in Computational Science and Data Science. The center(s) will lay the foundation for cross-disciplinary activities and establish the necessary foundations and preparations for launching for example a new department. It will develop research projects across disciplines as well as develop educational programs and initatives related to the establishment of an eventual new department or modification of existing departments.
+o A cluster hire at various departments in order to strengthen overall research and educational competences in computational science and data science. In this case one would most likely need a center or department  that coordinates such activities. Here one could think of for example 3-5 new positions in Computational Mathematics at the Department of Mathematics, a similar amount in Physics, Bioscience, Geoscience, Economy, Social Science etc.;
+o The enlargement/change/extension of existing departments. As an example, the present Department of Mathematics could be enlarged in order to accomodate the future needs. 
 
 
 ===== Appendix B: Structure and Justification for Planned Organization =====
@@ -499,6 +519,26 @@ analysts. Computational geoscience is an exciting and developing
 field, and one which will make major inroads to the earth sciences in
 the future.
 
+=== Computational Psychology ===
+
+Large files of audio/video are currently unused since data is in a
+form that is unavailable for quantitative analysis (such as video of
+weekly clinical interviews from multi-center trials of treatment for
+thousands of patients). Analysis of prosody can shed light on change
+processes, and should automatic transcription reach a sufficiently
+good level, this will, in combination with natural language
+processing, open up many interesting research questions.
+
+Accumulated data from online use already provides measurements of
+quantities such as personality, attitudes, skills or mental disorders
+which in many cases have proven to approach the level of the best
+instruments we have. Here one obtain much more, especially since
+clinical treatment will increasingly be supplemented by electronic
+registrations in the future, as well as being able to disconnect data
+from sensors in smart devices. Present instruments in use generate
+relatively large amounts of data (from for example EEG, ERP, and fMRI), and newer
+methods of pattern recognition/classification can shed light on a
+number of research questions.
 
 === Machine learning in education research ===
 
@@ -580,18 +620,6 @@ o Data-driven entrepreneurship
 o Courses tailored to the needs of specific companies
 o and more specialized modules
 
-=====  Appendix E: Summary of Timeline  =====
-
-o Establish a working group by April 1 2018. The working group will be tasked with evaluating various scenarios for strengthening Computational Science and Data Science at UiO. The report will be finalized during Fall 2018.
-o Start establish from spring 2019 a department (or possible center)  called _Department of Computational and Data Sciences_, with inauguration by end of 2020/begin 2021. 
-o "New Master of Science Program on Computational Science starts fall 2018":"http://www.uio.no/english/studies/programmes/computational-science-master/index.html"
-o "New Master of Science Program on Data Science starts fall 2018":"http://www.uio.no/english/studies/programmes/datascience-master/index.html"
-o Establish  a cross-college PhD program in Computational and Data Sciences, start fall 2020. This PhD program will be a collaboration between the Natural Sciences, Humanities, Social Sciences, Medicine and Education. 
-o Develop a corresponding cross-college MSc program in Computational Science and Data Science by fall 2020.
-o An undergraduate program in Computational and Data Sciences tailored to various disciplines by fall 2020
-o Develop courses and course modules in Computational Science and Data Science for the private and the public sectors by fall 2019.
-o Develop a Master of Science program and a PhD program in Computational Science and Data Science tailored to the needs of the private and the public sectors, allowing for students residing outside UiO to develop their knowledge about Computational Science and Data Science by fall 2021.
-o Submit an application called _Computing Across the Disciplines_ for a Marie Curie training network by spring 2019, 15 PhD positions
 
 
 
@@ -654,5 +682,12 @@ agencies in the USA.  Some of the major industrial and government investors are
 Google, IBM and Microsoft. In the USA both the Department of Energy 
 and the National Science Foundation are developing 
 QIS programs with several new initiatives.
+
+
+* In the second paragraph, "these future challenges" can perhaps be
+explained better. (It was only argued that computational science
+and data science are important.) How about moving some of the
+texts from section "Why should we focus on developing a
+department in Com- putational and Data Sciences?"
 
 
