@@ -47,7 +47,7 @@ Ingrid Glad (MI)&  Geir Storvik (MI)\\
 
 \section{Computing Across  Disciplines: How the University of Oslo  should meet the Future}
 
-Data Science (DS)\todo{Comments can be included with a todo command.}, including machine learning, and Computational Science (CS) are fast-growing scientific areas of high importance  for the Faculty of Mathematics and Natural Sciences.\footnote{
+Data Science (DS), including machine learning, and Computational Science (CS) are fast-growing scientific areas of high importance  for the Faculty of Mathematics and Natural Sciences.\footnote{
 The age of analytics: Competing in a data-driven world \url{https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-age-of-analytics-competing-in-a-data-driven-world} and
 \url{
 https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/big-data-the-next-frontier-for-innovation}}
@@ -56,25 +56,17 @@ Data Science and Computational Science play a central role in scientific investi
 Furthermore, the 3rd Industrial Revolution will alter significantly the demands on the workforce. To adapt a highly-qualified workforce to coming challenges requires strong fundamental bases in STEM fields. Data Science and Computational Science can provide such bases at all stages. 
 These developments, needs and future challenges, will play an essential role in shaping future technological developments. Most of these developments require true cross-disciplinary approaches.
 There is a massive interest in society, and in the job market,  for candidates with this kind of DS and CS background. In particular, the interest concerning machine learning techniques is noteworthy.  
-\todo{MHJ: lagt til som svar til AS og IG, deres kommentar lenger nede.}
+
 {\bf This document aims at developing strategies for meeting these future challenges. One important step in order to meet the future, is the hiring of new researchers and faculty with the competences and skills which are needed in order to harness the many new possibilities, as well as developing new research and educational strategies that can serve our society at large. There are several possible ways to meet these challenges. The present document focuses on the establishment of a new   center (DASCO) on Data Science and Computational Science.}
 
 
-\footnote{29.01 fra Morten D:
-1. Startup lab: UiO, Telenor, Kongsberg,
-2. NORA nettverk: 9 medl, samarbeid, søke store program i EU, kunstig intelligens, AI, maskinlæring, politisk 
-3. Digital 21 rapport (2018): næringslivsbehov, utdanning, stordata, kunstig intelligens, autonomi, fire sentre etableres som jobber med digitalisering opp mot næringsliv, der hvert senter får en del PhD/postdoc, ikke grunnforskning, 
-}
-
-
-\todo{AS: Et sted in intro-en synes jeg vi skal si tydeligere hvorfor vi trenger et slikt senter. Data science/maskinlæring er så viktig for mange fagfelt nå at vi MÅ handle både av samfunnsmessige grunner, for å forsvare MNs rolle, for å være konkurransedyktige i framtiden 
-IG: Forslag: It is now urgent that the University of Oslo reacts to these trends and finds an appropriate and fruitful way of organising already existing activity, and at the same time extends competence and increases activity, in order to meet societal demands and keep a leading position as a research and educational institution in the future. MHJ: se forslag over.}
 
 \subsection{Background}
 In the fall of 2018 the University of Oslo started two new Master of Science  programs in Data Science and Computational Science at the University of Oslo, and the first students are now enrolled. There was a major interest for each of these Master of Science programs with many applicants from Norway and abroad. Moreover, there is  a  broad interest for CS  and DS courses 
 across study programs at the Faculty of Mathematics and Natural Sciences (FMNS) at the University of Oslo (UiO). This applies to other Faculties/colleges and disciplines as well. There is a growing interest in for example Machine Learning in a wide range of fields, from Economics to Political Science and Psychology. 
 
-A survey conducted during the fall 2018 shows that the use of Data Science and Computational Science tools form important parts of the research performed at all departments of the FMNS, see Figure~\ref{fig:dept}.\todo{IG: Feil ref. Er i Appendix 3} Some of the respondents state they only require off-the-shelf tools while many others are involved in so large and complex problems that cutting-edge methodology has to be applied, or even developed. Pure methodological research within DS and CS is mainly concentrated at the departments of Informatics (IFI) and Mathematics (MI). Workshops and seminars have on several occasions been organized within and outside the FMNS. A common feedback from these activities is the need for a forum for scientific discussions and collaborations on DS and CS topics.
+A survey conducted during the fall 2018 shows that the use of Data Science and Computational Science tools form important parts of the research performed at all departments of the FMNS, see Figure~\ref{fig:dept}.
+ Some of the respondents state they only require off-the-shelf tools while many others are involved in so large and complex problems that cutting-edge methodology has to be applied, or even developed. Pure methodological research within DS and CS is mainly concentrated at the departments of Informatics (IFI) and Mathematics (MI). Workshops and seminars have on several occasions been organized within and outside the FMNS. A common feedback from these activities is the need for a forum for scientific discussions and collaborations on DS and CS topics.
 
 
 The Faculty of Mathematics and Natural Sciences at UiO has recently presented its strategic plan for the period till 2030, with several ambitious proposals and strategic themes.  One of these strategic themes is \emph{digitalization and computational science}, where Data Science and Computational Science are expected to play a central role. 
@@ -84,7 +76,6 @@ The University of Oslo has in all of the STEM fields strong research and educati
 \item There is a  newly established center of excellence in educational research, the Center of Computing in Science Education.
 \item Newly established Master of Science programs in Data Science and Computational Science.
 \item Computational topics are included in all undergraduate STEM programs.
-%\item Several educational prizes and awards related to computational science
 \item Strong links with research laboratories like SINTEF, SIMULA and the Norwegian Computing Center (NR).
 \item Involvement of other initiatives like Startup-Lab, NORA etc. Furthermore the contact with industry is strong, and the Akademia agreement between the FMNS and Equinor provides support to positions and activities in Data Science/Machine learning.
 \end{itemize}
@@ -109,13 +100,6 @@ A central question is thus:
 How should the activities in DS and CS be organized at the Faculty of Mathematics and Natural Sciences in order to maximize the benefit in terms of fruitful scientific collaboration and impact, and provide attractive study programs as well?
 
 
-\todo{MHJ kommentar: Om vi beholder teksten som følger bør vi kanskje skrive om litt. Kanskje vi sjalter ut og går rett over på visjonen? Kommentert bort i denne latex versjonen}
-%This is a difficult question. First of all, nobody knows what the future developments will be in these areas. The rapidly expanding field  of %machine learning serves as  an excellent example here. The developments and the interest in this field have increased significantly in the last %few years. This was hardly predictable, say, ten years ago. The broad perspective is that $(i)$ the role of computers and computing has been %increasing in science for several decades, and $(ii)$ we have available large amounts of data in different areas for analysis. As a consequence, %new analytical and computational tools are gradually being introduced in the classical disciplines with new emerging cross-disciplinary %collaborations. Along with this evolution, the development and understanding of new methods and algorithms are becoming even more crucial, and %calls for methodological research and education in these directions.
-
-
-
-%We believe in a faculty organization where %the departments represent the classical %disciplines, as now, and where new %significant developments of an %interdisciplinary nature may be organized as %a center in collaboration between %departments. 
-
 \section{Vision and actions}
 
 In order to answer the above questions, 
@@ -128,7 +112,7 @@ this document aims at developing strategies for meeting  present and future chal
 
 \subsection{Main goals}
 \begin{enumerate}
-\item The establishment  of DASCO\todo{HS: Det er veldig naerme CISCO, er det ok? MHJ: kanskje CDC?}, a highly visible  national and international center for {\bf Data Science and Computing}. 
+\item The establishment  of DASCO, a highly visible  national and international center for {\bf Data Science and Computing}. 
 \item A physically co-located center for Data Science and Computational Science researchers from the Faculty of Mathematics and Natural Sciences. The center will also strive to open up for research and applications of DS and CS in disciplines outside the traditional realm of Mathematics and Natural Science.  
 \item A hub/node policy (Figure~\ref{fig:dept1}): The center with its researchers will spearhead new developments in Data Science and Computational Science. It will  provide the physical meeting places for DS and CS activities at UiO, ranging from collaborative research programs to the organization of seminars and workshops and new educational programs in DS and CS. It will act as the main hub for all DS and CS related activities. The various nodes in the figure below represent  related activities at the different departments of the FMNS as well as other disciplines and Faculties at the University of Oslo. 
 \item The new center will strengthen  existing collaborations as well as opening up for new  collaborations in Data Science and Computational Science across disciplines.  
@@ -139,7 +123,6 @@ The new center will be unique among computational academic units nationally, the
 
  Such a center will have a strong national and international visibility, a feature which is important for recruiting students as well as for  connections with external partners from the public and the private sectors. We foresee that this center will develop a long-term perspective, where a central aim is to oversee and adjust  to new developments in the broad areas of Data Science, Computational Science and Scientific Computing.
 
-%\todo{HS: Jeg foreslår at vi legger til en setning også om de andre deltagerne for å være inkluderende, a la "Smaller institutes will also have a lesser but central role such as the departments of ITA and FI". MHJ: Done, se These two departments represent the main contributors to the center and together with domain specialists from other departments at the FMNS, the aim is to strengthen DS and CS at the University of Oslo.} 
 
 
 \begin{wrapfigure}{R}{0.4\textwidth}
@@ -167,10 +150,10 @@ This organization upholds the basic and classical disciplines behind DS and CS a
 \item Attract extensive external funding, both from industry/public sector and research councils,  with the vision of establishing a new center of excellence.
 \end{enumerate}
 
-\todo{HS: Dette m\aa let b\o r ikke st\aa f\o rst, det virker rart og ikke "bold" nok, jeg foresl\a r og endre rekkef\o lgen til: 2, 5, 7, 3, ... eller noe. MHJ: done} \todo{IG: Enig med Heidi i at rekkeflkgen må endres, foreslår 2,5,6,3,4,1,(7),8} 
+
 
 \subsection{Proposal}
-To achieve these goals, we propose the following:\todo{HS: Hvor er forskningen?}
+To achieve these goals, we propose the following:
 \begin{enumerate}
 \item Structure of the center
 \begin{itemize}
@@ -195,26 +178,94 @@ To achieve these goals, we propose the following:\todo{HS: Hvor er forskningen?}
 \end{itemize}
 \item Develop formal affiliations and responsibilities to "home" departments, with  responsibilities through agreements delegated to the center. 
 \end{enumerate}
-A DS and CS center will gain high visibility and facilitate connections to the public and private sectors, with the aim to strengthen links to  industry, research institutes and society in general.   
-In our proposal we suggest not only to integrate researchers within each of the separate fields of DS and CS but also to integrate these fields. Although being separate fields with different focus, "users" typically need both and there is also much methodological overlap making a "convergence" of these fields a possible benefit for all parts. For students, the differences between these fields are sometimes difficult to understand,  making thereby a common profile more meaningful 
-\
 
-A central element in addressing the above needs and challenges is the hiring of new faculty members and researchers. We recommend a model where new positions (faculty and researchers, permanent and/or temporary) are earmarked for the departments of Mathematics and Informatics in order to develop new research and educational directions in Data Science and Computational Science.
-The new faculty will thus be tasked with developing new research and educational programs in Data Science and Computational Science. It is essential that the hired faculty can/should have shared positions with existing departments (for example a 70\% position at say Mathematics or Informatics and 30\% at the department of Physics), similarly, faculty with a computational profile and interest at existing departments can have shared positions at the Department of Mathematics and the Department of Informatics. The shared positions entail also sharing of teaching obligations\todo{HS: I would add a comment on the sharing of teaching obligations here. MHJ: done}. This will ensure transfer of knowledge as well as the establishment of new and cross-disciplinary research and oversee the development of new educational programs and efforts.
+A DS and CS center will gain high visibility and facilitate
+connections to the public and private sectors, with the aim to
+strengthen links to industry, research institutes and society in
+general.  In our proposal we suggest not only to integrate researchers
+within each of the separate fields of DS and CS but also to integrate
+these fields. Although being separate fields with different focus,
+"users" typically need both and there is also much methodological
+overlap making a "convergence" of these fields a possible benefit for
+all parts. For students, the differences between these fields are
+sometimes difficult to understand, making thereby a common profile
+more meaningful.
 
-We suggest a small administrative staff associated with DASCO with responsibilities associated with study programs, organizing seminars/courses and industrial contacts (research collaboration, student internships). 
 
-The proposed organization will also influence our study programs. 
-The creation of a coherent set of undergraduate and graduate degrees, with accompanying courses, supports two complementary goals. First, a coherent program will allow the University of Oslo to consolidate undergraduate and graduate training in data analysis and computations in the STEM fields as well as introducing such tools to other disciplines, reducing redundancy in the courses taught and allowing the university to offer a wider range of more specialized advanced courses. Second, we will create a set of degrees that are designed to give our students a strong introduction to data science and computing that will complement UiO’s existing disciplinary training, and which will make them better suited to be a part of the workforce in the 21st century. Finally it will enable our students to develop and use Data Science and Computational Science across the disciplines.
-One desired result of the creation of these courses and programs is the foundation of a strong community of students from different disciplines that use similar techniques to solve a wide range of problems, which will promote broad, interdisciplinary thinking and will help to raise the visibility of data science and computing across disciplines. 
-We note that an extra benefit of these educational efforts is that UiO will become an ideal place to perform research in data science and computational science education, a topic of critical importance that has thus far received less attention. We foresee strong links with the recently established Center for Computing in Science Education. 
+A central element in addressing the above needs and challenges is the
+hiring of new faculty members and researchers. We recommend a model
+where new positions (faculty and researchers, permanent and/or
+temporary) are earmarked for the departments of Mathematics and
+Informatics in order to develop new research and educational
+directions in Data Science and Computational Science.  The new faculty
+will thus be tasked with developing new research and educational
+programs in Data Science and Computational Science. It is essential
+that the hired faculty can/should have shared positions with existing
+departments (for example a 70\% position at say Mathematics or
+Informatics and 30\% at the department of Physics), similarly, faculty
+with a computational profile and interest at existing departments can
+have shared positions at the Department of Mathematics and the
+Department of Informatics. The shared positions entail also sharing of
+teaching obligations. This will ensure transfer of knowledge as well
+as the establishment of new and cross-disciplinary research and
+oversee the development of new educational programs and efforts.
 
-The Faculty of Mathematics and Natural Sciences has over the last 15 years integrated computational science topics in our bachelor programs. It is now time to integrate data science as well into our bachelor programs. As of now, this is only partly done  through some “practical” introductory courses in statistics and domain specific courses which include selected aspects of data analysis. What we in particular need is an introduction to basic knowledge about using the “scientific method" (the empirical method of knowledge acquisition) including representability of data for the problem at hand, design of data collection, the bias-variance trade-off, as well as principles for evaluating the quality of the obtained results.
+We suggest a small administrative staff associated with DASCO with
+responsibilities associated with study programs, organizing
+seminars/courses and industrial contacts (research collaboration,
+student internships).
 
-In addition, the center should strive to establish  interdisciplinary projects and have close collaboration with similar international centers.  Integrating the development of computational infrastructure at USIT into the center is also an important aspect. \todo{MHJ comment: is USIT ready for this? May take out. HS: I agree with this comment}
-\todo{AS: After working closely with USIT as part of using their new ML-servers with GPUS for our 100-student course in deep learning, I think they are, with the planned increasing emphazhis on new servers. But the need several levels of computers, from desktops with GPU, so research-group small servers, to larger clusters. IK: I also think that they are ready for this, they have received large funds for increased capacities and they have asked several of our phd students to be forsøkskaniner for various services.}
+The proposed organization will also influence our study programs.  The
+creation of a coherent set of undergraduate and graduate degrees, with
+accompanying courses, supports two complementary goals. First, a
+coherent program will allow the University of Oslo to consolidate
+undergraduate and graduate training in data analysis and computations
+in the STEM fields as well as introducing such tools to other
+disciplines, reducing redundancy in the courses taught and allowing
+the university to offer a wider range of more specialized advanced
+courses. Second, we will create a set of degrees that are designed to
+give our students a strong introduction to data science and computing
+that will complement UiO’s existing disciplinary training, and which
+will make them better suited to be a part of the workforce in the 21st
+century. Finally it will enable our students to develop and use Data
+Science and Computational Science across the disciplines.  One desired
+result of the creation of these courses and programs is the foundation
+of a strong community of students from different disciplines that use
+similar techniques to solve a wide range of problems, which will
+promote broad, interdisciplinary thinking and will help to raise the
+visibility of data science and computing across disciplines.  We note
+that an extra benefit of these educational efforts is that UiO will
+become an ideal place to perform research in data science and
+computational science education, a topic of critical importance that
+has thus far received less attention. We foresee strong links with the
+recently established Center for Computing in Science Education.
 
-These efforts will open new avenues for research, will enable UiO to compete and propose new center-level funding opportunities as well as totally new research areas (in the Humanities, for example) in computation and data-driven related areas that are currently beyond our reach. It will facilitate the training of scientists and students to be an effective 21st century workforce. It will also develop courses on modern computational techniques and data modeling that meet the needs of society, both for the public and the private sector.
+The Faculty of Mathematics and Natural Sciences has over the last 15
+years integrated computational science topics in our bachelor
+programs. It is now time to integrate data science as well into our
+bachelor programs. As of now, this is only partly done through some
+“practical” introductory courses in statistics and domain specific
+courses which include selected aspects of data analysis. What we in
+particular need is an introduction to basic knowledge about using the
+“scientific method" (the empirical method of knowledge acquisition)
+including representability of data for the problem at hand, design of
+data collection, the bias-variance trade-off, as well as principles
+for evaluating the quality of the obtained results.
+
+In addition, the center should strive to establish interdisciplinary
+projects and have close collaboration with similar international
+centers.  Integrating the development of computational infrastructure
+at USIT into the center is also an important aspect.
+
+
+These efforts will open new avenues for research, will enable UiO to
+compete and propose new center-level funding opportunities as well as
+totally new research areas (in the Humanities, for example) in
+computation and data-driven related areas that are currently beyond
+our reach. It will facilitate the training of scientists and students
+to be an effective 21st century workforce. It will also develop
+courses on modern computational techniques and data modeling that meet
+the needs of society, both for the public and the private sector.
 
 
 
@@ -243,21 +294,18 @@ several “primary” members from MI, IFI and  other departments (f.ex. Physics
 \caption{\label{fig:dept}Major discipline (yellow), some suggested topics (cyan), domain areas (green).}
 \vspace*{-1cm}
 \end{wrapfigure}
-At the research level, the center should not aim at covering all topics within DS and CS but rather select some areas where we have high chances of succeeding\todo{HS: "...and/or with large impact"?}. The selection of such topics will depend on which researchers that choose to be part of the center. Some possible subjects are listed below.\todo{We should perhaps relate these topics to research groups at MN as well.}
+
+At the research level, the center should not aim at covering all
+topics within DS and CS but rather select some areas where we have
+high chances of succeeding. The selection of such topics will depend on which
+researchers that choose to be part of the center. Some possible
+subjects are listed below.
 
 \cleapage
-\todo{MHJ kommetar: hvor mye av det som kommer skal vi ha med? Jeg har retta til hit samt noe i appendiks - HS: Jeg tenker dette bør være en veldig kort liste med noen kulepunkter, eller fokusere på bare noen få områder og så si at senterets første oppgave er å lage en arbeidsplan og identifisere fokusområdene for de neste 5 årene}
 
-\todo{IG: Jeg syns dette kapittelet er veldig vanskelig å få til ordentlig. Vi må finne ut hva vi vil med det. Skal det være en liste over hva vi allerede kan, hva vi kan komme på å få til, eller en full liste over hva et DASCO-senter burde dekke av temaer? Hvordan bestemmer man hvilken type kompetanse UiO mangler, hva slags profil man ønsker seg på nye folk - skal listen si noe om dette? Geir S og jeg har tidligere snakket om at vi burde ha med temaer som MÅ dekkes av et slikt senter, men jeg ser at det er vanskelig å sette sammen temaer som er på veldig ulikt nivå. For egen del: Viktige deler av Data Science som vi i seksjon 2 dekker, vil i tillegg til det som står, være Bayesian inference (=Probabilistic learning), time to event data, data integration, high-dimensional data/models, dimension reduction & sparsity, changepoint and anomaly detection, nonstationarity models, graphical modelling, model selection,... Slike lister kunne alle tungt involverte grupper komme med, hvis det er hensiktsmessig? Vet mange nå har brukt tid på å skrive deler her, men vi bør ta en skikkelig diskusjon på hva vi vil oppnå med det vi skriver her.}
-
-\todo{MHJ: kanskje vi sjalter ut topics i sin helhet og legger dette sammen med aktivitetene i appendix?}
 
 
 \paragraph{Deep learning} has revolutionized image analysis (using convolutional and recurrent networks) with considerable success in  many other areas of applications as well. Network structure and Bayesian model selection are active research areas at both IFI and MI.
-\todo{ AS: Today, deep networks can appear like a black box, and research will be focused on understanding  the mechanisms behind the decisions that the network makes, e.g. in terms of reliability, robustness, and the associated uncertainty.  This is an area where the joint competence of the center really can make an impact to merging applications in e.g. machine vision, robotics, and language models tighter with traditional statistical modelling. 
-Another interesting area is learning for imbalanced data set, which is typically for many applications in e.g. medicine. Models for incorporating prior knowledge into deep networks is also an area where the joint cross-disciplinary comptence will create large potential. 
-The link to optimization is also very strong, and the potential for developing better learning algorithms is large. }
-
 
 
 \paragraph{Big data} The volume of data continues to increase exponentially. The amount of data poses challenges both in construction of concepts on how to analyze such data computationally.
@@ -286,7 +334,7 @@ Many industrial applications of machine learning methods are characterized by a)
 are some examples of methods that have been proposed. There are also alternative strategies such as sequential Monte Carlo and approximate methods (variational inference).
 
 \paragraph{Optimization}
-\todo{AS: We could add something along the lines that today in deep learning, very naive first order methods are used. Most commom is perhaps stochastic gradient descent with momentum, decaying learning rate, or simple methods for adaptive updates of the different weights like Adam. A large potential is probably also to use Bayesian grid searches for the hyperparameters.}
+
 
 \paragraph{Quantum computing} \todo{This part needs to be shortened somewhat}Enabling simulations of large-scale quantal many-particle systems is a long-standing problem in scientific computing. Quantum many-particle interactions define the structure of the universe, from nucleons and nuclei, to atoms, molecules, and even stars. Since the discovery of quantum mechanics, a lot of progress has been made in understanding the dynamics of certain many-particle systems. While some of our insights come from a small set of analytically solvable models, numerical simulations have become a mainstay in our understanding of many-particle dynamics. The progress in numerical simulations has accelerated in the last few decades with the advent of modern high performance computing (HPC) and clever developments in classical simulation algorithms such as, quantum Monte Carlo,large-scale diagonalization approaches, and other renormalization schemes. Despite the monumental advances, classical simulation techniques are reaching fundamental limits in terms of the size of the quantum systems that can be processed. Fortunately, the disruptive new field of quantum simulations has emerged, promising to enable simulations far beyond those which are classically tractable. 
 
@@ -298,9 +346,8 @@ Recent progress in quantum computing as well as digital and analog Quantum Algor
 \subsection{Challenges}
 Creating such a center will pose some challenges. We have listed some below that should be considered. 
 \begin{itemize}
-\item Time-frame: New related centers and education programs appear at several other universities. We need to move quickly in order to not be left behind, both in attracting students and on outside collaborators. The center should be established within the first half of 2020.\todo{HS: Hvorfor venter vi til 2020? Hva er fordelen med aa vente, her mangler det kanskje noe informasjon. P.g.a rekruttering? Da boer vi si det. Ellers kan vi ogsaa starte senteret foer vi rekruterer, vi er mange nok. IG: Enig, her må vi komme igang så fort som mulig}
+\item Time-frame: New related centers and education programs appear at several other universities. We need to move quickly in order to not be left behind, both in attracting students and on outside collaborators. The center should be established within the first half of 2020.
 \item Location: It is important that a co-location is established at the start of the center-period in order to kick off collaborations as soon as possible. 
-\todo{HS: Saa hvis vi ikke har noe sted aa vaere saa kan vi ikke starte senteret og det blir forsinket? Hmm. Hva med aa legge til: "If co-location is not possible immediately, we propose to start the centre in temporary locations not to delay the process". IG: Enig}
 
 \item Relations to other centers: OCBE, NR, Simula, Sintef, Nora-centers, Startup-Lab. These are all environments that also operate in the CS/DS area. How to formally or informally collaborate with these centers should be considered.
 \item Relations to other CS/DS studies. Several other programs at the MN faculty include flavours of CS/DS topics. The current master programs in DS and CS have different approaches to this. CS includes many domain-specific directions while DS has a more pure methodological profile combined with offering more user-friendly courses that can be included in the domain-specific programs.   
@@ -603,7 +650,7 @@ SOS290& Algoritmer, store data og samfunnsendring\\
 \subsection{Research in DS and CS at the Faculty of Mathematics and Natural Sciences}
 This section describes research activities within DS and CS at the Faculty of Mathematics and Natural Sciences. This description is most likely not complete. We apologize for eventual shortcomings and urge the attentive reader to aid us in improving the quality of this document. 
 \subsubsection*{Department of Mathematics}
-Most of the research within DS at MI is concentrated around the analytics part of the Data Science workflow. This both involves development of new sophisticated data-driven “machine learning” tools and making more traditional model based tools useful for big data settings. It involves extending/modifying models to new settings, deriving more efficient algorithms and deriving mathematical properties of the methods involved. It also involves applying machine learning tools to new applications. Much of the development of new methods is performed at section 2 (Statistics and Data Science), but several other sections have some activity or interest in the area of machine learning. The people at section 2 involved in this area are  Ørnulf Borgan, Riccardo De Bin, Ingrid Glad, Ingrid Hobæk Haff, Geir Storvik, Ida Scheel, and some adjunct professors. \todo{Should we mention persons at all departments or none?}
+Most of the research within DS at MI is concentrated around the analytics part of the Data Science workflow. This both involves development of new sophisticated data-driven “machine learning” tools and making more traditional model based tools useful for big data settings. It involves extending/modifying models to new settings, deriving more efficient algorithms and deriving mathematical properties of the methods involved. It also involves applying machine learning tools to new applications. Much of the development of new methods is performed at section 2 (Statistics and Data Science), but several other sections have some activity or interest in the area of machine learning. The people at section 2 involved in this area are  Ørnulf Borgan, Riccardo De Bin, Ingrid Glad, Ingrid Hobæk Haff, Geir Storvik, Ida Scheel, and some adjunct professors. 
 Most of the research within Data Science is performed through PhD projects, many which are sponsored by the SFI BigInsight. 
 
 Through the SFI BigInsight, but also through other projects, there is an extensive collaboration with industry and public administration (DNV-GL, ABB, DNB, Gjensidige, Telenor, Hydro, OUS, SSB, Skatteetaten, NAV, Folkehelsa, PRIO, NR +++).
@@ -611,7 +658,6 @@ There has also been an increasing interest in the “Nærings-PhD” options wit
 We also see an increasing number of requests to participate in projects from other fields were Data Science/machine learning methodology is required (Prio, IBV, Rettsvitenskap, ...) 
 
 At MI there is activity related to CS in several sections, in particular in the groups in mechanics, partial differential equations, reliability/risk analysis and geometrical modeling. 
-\todo{Here we need more on computational sciences!!!}
 
 
 \subsubsection*{Department of Informatics}
@@ -648,12 +694,58 @@ Quantitative education research has historically been done at the micro-scale (c
 
 \subsubsection*{Department of Physics}
 
-The department of Physics has Computational Science and Data Science activities in several of its research groups. Some of the research groups use mainly existing software in the their analysis of for example experimental data. This is particularly relevant for the experimental research activities in subatomic physics (high-energy physics and nuclear physics). In high-energy physics there is a long tradition in using machine learning in the analysis of experimental data. Experimenters at CERN started using Machine Learning algorithms more than twenty years ago. The huge amount of data from experiments at CERN requires that the  high-energy physics group is heavily involved in both development and usage of CS and DS software. Furthermore, there is strong need for large storage capacities and high-performance computing resources (software and hardware).  
-The applications and developments of DS and CS algorithms and software is also important to activities in space physics, condensed matter physics and biophysics. In particular, Monte Carlo methods and  the solution of ordinary and partial differential equations play a central role. 
-The Department of Physics has also a group in Computational Physics. The group has worked with computational methods tailored to studies of strongly interacting quantum mechanical systems, spanning from atoms and molecules to condensed matter and materials science to subatomic physics. The latter includes Lattice quantum chromodynamics and studies of nuclear matter. The methods range from stochastic simulations (Monte Carlo methods) to solutions of large eigenvalue problems and large sets on non-linear equations. Optimization problems are used extensively. A broad spectrum of algorithms in computational science are used and developed, in addition to statistical data analysis and Machine Learning algorithms. The main activities have focused on computational quantum mechanics and computational statistical mechanics. The group collaborates with researchers across the disciplines, from political science to meteorology, mechanics and computational neuroscience.  Many of the above methods are widely used by other research groups at the department of Physics. Compared with the Departments of Chemistry, Geosciences and Theoretical Astrophysics, CS and DS research at the department of Physics has used less of the national high-performance computing resources.\todo{HS: Jeg er ikke sikker på om dette stemmer, eller vi bør legge til en kommentar at det er fordi vi har stor bruk av  internasjonale ressurser} This is likely to change in the future.
+The department of Physics has Computational Science and Data Science
+activities in several of its research groups. Some of the research
+groups use mainly existing software in the their analysis of for
+example experimental data. This is particularly relevant for the
+experimental research activities in subatomic physics (high-energy
+physics and nuclear physics). In high-energy physics there is a long
+tradition in using machine learning in the analysis of experimental
+data. Experimenters at CERN started using Machine Learning algorithms
+more than twenty years ago. The huge amount of data from experiments
+at CERN requires that the high-energy physics group is heavily
+involved in both development and usage of CS and DS
+software. Furthermore, there is strong need for large storage
+capacities and high-performance computing resources (software and
+hardware).  The applications and developments of DS and CS algorithms
+and software is also important to activities in space physics,
+condensed matter physics and biophysics. In particular, Monte Carlo
+methods and the solution of ordinary and partial differential
+equations play a central role.  The Department of Physics has also a
+group in Computational Physics. The group has worked with
+computational methods tailored to studies of strongly interacting
+quantum mechanical systems, spanning from atoms and molecules to
+condensed matter and materials science to subatomic physics. The
+latter includes Lattice quantum chromodynamics and studies of nuclear
+matter. The methods range from stochastic simulations (Monte Carlo
+methods) to solutions of large eigenvalue problems and large sets on
+non-linear equations. Optimization problems are used extensively. A
+broad spectrum of algorithms in computational science are used and
+developed, in addition to statistical data analysis and Machine
+Learning algorithms. The main activities have focused on computational
+quantum mechanics and computational statistical mechanics. The group
+collaborates with researchers across the disciplines, from political
+science to meteorology, mechanics and computational neuroscience.
+Many of the above methods are widely used by other research groups at
+the department of Physics. Compared with the Departments of Chemistry,
+Geosciences and Theoretical Astrophysics, CS and DS research at the
+department of Physics has used less of the national high-performance
+computing resources. This is likely to change in the future.
 
-The Computational Physics group has also been central in the development of the Computing in Science Education project, a project which aims at integrating in a coherent way computing in basic science courses. The members of the group are central members of the newly established Center of Excellence Center for Computing in Science Education. 
-The group has also developed several highly popular courses in computational physics, amongst these FYS3150/4150 with approximately 100 students from all disciplines in natural science at UiO. The members of the group have also developed the new course on Data Analysis and Machine Learning, FYS-STK3155/4155, with close to 100 students when it run the first time during the fall semester 2018. The members of the group initiated the process that led to the establishment of the new Master of Science program Computational Science. 
+The Computational Physics group has also been central in the
+development of the Computing in Science Education project, a project
+which aims at integrating in a coherent way computing in basic science
+courses. The members of the group are central members of the newly
+established Center of Excellence Center for Computing in Science
+Education.  The group has also developed several highly popular
+courses in computational physics, amongst these FYS3150/4150 with
+approximately 100 students from all disciplines in natural science at
+UiO. The members of the group have also developed the new course on
+Data Analysis and Machine Learning, FYS-STK3155/4155, with close to
+100 students when it run the first time during the fall semester
+2018. The members of the group initiated the process that led to the
+establishment of the new Master of Science program Computational
+Science.
 
 
 
@@ -661,7 +753,6 @@ The group has also developed several highly popular courses in computational phy
 
 A strong emphasis on DS and CS has the potential to develop novel collaborations across disciplines. Data analytics has a long history within Social sciences (in particular economics). In the Humanities and the Social Sciences there are several examples where Machine Learning starts to play a central role. Strengthening research in DS and CS with Machine Learning are research areas of great interest where the departments of Mathematics and Informatics can play a central role in establishing new research and educational activities. We list here some possible examples:
 
-\todo{IG: NB NB Jeg tror at det største feltet for DS (og CS) utenfor FMNS er MEDISIN. Samtidig har de sitt eget store Oslo Centre for Biostatistisc and Epidemiology, OCBE). Vi bør skrive noe om dette? }
 
 \paragraph{Computational Psychology}
 Large files of audio/video are currently unused since data is in a form that is unavailable for quantitative analysis (such as video of weekly clinical interviews from multi-center trials of treatment for thousands of patients). Analysis of prosody can shed light on change processes, and should automatic transcription reach a sufficiently good level, this will, in combination with natural language processing, open up many interesting research questions.

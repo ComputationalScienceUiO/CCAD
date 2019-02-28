@@ -65,7 +65,8 @@ There is a massive interest in society, and in the job market,  for candidates w
 In the fall of 2018 the University of Oslo started two new Master of Science  programs in Data Science and Computational Science at the University of Oslo, and the first students are now enrolled. There was a major interest for each of these Master of Science programs with many applicants from Norway and abroad. Moreover, there is  a  broad interest for CS  and DS courses 
 across study programs at the Faculty of Mathematics and Natural Sciences (FMNS) at the University of Oslo (UiO). This applies to other Faculties/colleges and disciplines as well. There is a growing interest in for example Machine Learning in a wide range of fields, from Economics to Political Science and Psychology. 
 
-A survey conducted during the fall 2018 shows that the use of Data Science and Computational Science tools form important parts of the research performed at all departments of the FMNS, see Figure~\ref{fig:dept}.\todo{IG: Feil ref. Er i Appendix 3} Some of the respondents state they only require off-the-shelf tools while many others are involved in so large and complex problems that cutting-edge methodology has to be applied, or even developed. Pure methodological research within DS and CS is mainly concentrated at the departments of Informatics (IFI) and Mathematics (MI). Workshops and seminars have on several occasions been organized within and outside the FMNS. A common feedback from these activities is the need for a forum for scientific discussions and collaborations on DS and CS topics.
+A survey conducted during the fall 2018 shows that the use of Data Science and Computational Science tools form important parts of the research performed at all departments of the FMNS, see Figure~\ref{fig:dept}.
+ Some of the respondents state they only require off-the-shelf tools while many others are involved in so large and complex problems that cutting-edge methodology has to be applied, or even developed. Pure methodological research within DS and CS is mainly concentrated at the departments of Informatics (IFI) and Mathematics (MI). Workshops and seminars have on several occasions been organized within and outside the FMNS. A common feedback from these activities is the need for a forum for scientific discussions and collaborations on DS and CS topics.
 
 
 The Faculty of Mathematics and Natural Sciences at UiO has recently presented its strategic plan for the period till 2030, with several ambitious proposals and strategic themes.  One of these strategic themes is \emph{digitalization and computational science}, where Data Science and Computational Science are expected to play a central role. 
@@ -300,15 +301,9 @@ high chances of succeeding. The selection of such topics will depend on which
 researchers that choose to be part of the center. Some possible
 subjects are listed below.
 
-\cleapage
-
 
 
 \paragraph{Deep learning} has revolutionized image analysis (using convolutional and recurrent networks) with considerable success in  many other areas of applications as well. Network structure and Bayesian model selection are active research areas at both IFI and MI.
-\todo{ AS: Today, deep networks can appear like a black box, and research will be focused on understanding  the mechanisms behind the decisions that the network makes, e.g. in terms of reliability, robustness, and the associated uncertainty.  This is an area where the joint competence of the center really can make an impact to merging applications in e.g. machine vision, robotics, and language models tighter with traditional statistical modelling. 
-Another interesting area is learning for imbalanced data set, which is typically for many applications in e.g. medicine. Models for incorporating prior knowledge into deep networks is also an area where the joint cross-disciplinary comptence will create large potential. 
-The link to optimization is also very strong, and the potential for developing better learning algorithms is large. }
-
 
 
 \paragraph{Big data} The volume of data continues to increase exponentially. The amount of data poses challenges both in construction of concepts on how to analyze such data computationally.
@@ -337,7 +332,7 @@ Many industrial applications of machine learning methods are characterized by a)
 are some examples of methods that have been proposed. There are also alternative strategies such as sequential Monte Carlo and approximate methods (variational inference).
 
 \paragraph{Optimization}
-\todo{AS: We could add something along the lines that today in deep learning, very naive first order methods are used. Most commom is perhaps stochastic gradient descent with momentum, decaying learning rate, or simple methods for adaptive updates of the different weights like Adam. A large potential is probably also to use Bayesian grid searches for the hyperparameters.}
+
 
 \paragraph{Quantum computing} \todo{This part needs to be shortened somewhat}Enabling simulations of large-scale quantal many-particle systems is a long-standing problem in scientific computing. Quantum many-particle interactions define the structure of the universe, from nucleons and nuclei, to atoms, molecules, and even stars. Since the discovery of quantum mechanics, a lot of progress has been made in understanding the dynamics of certain many-particle systems. While some of our insights come from a small set of analytically solvable models, numerical simulations have become a mainstay in our understanding of many-particle dynamics. The progress in numerical simulations has accelerated in the last few decades with the advent of modern high performance computing (HPC) and clever developments in classical simulation algorithms such as, quantum Monte Carlo,large-scale diagonalization approaches, and other renormalization schemes. Despite the monumental advances, classical simulation techniques are reaching fundamental limits in terms of the size of the quantum systems that can be processed. Fortunately, the disruptive new field of quantum simulations has emerged, promising to enable simulations far beyond those which are classically tractable. 
 
@@ -697,12 +692,58 @@ Quantitative education research has historically been done at the micro-scale (c
 
 \subsubsection*{Department of Physics}
 
-The department of Physics has Computational Science and Data Science activities in several of its research groups. Some of the research groups use mainly existing software in the their analysis of for example experimental data. This is particularly relevant for the experimental research activities in subatomic physics (high-energy physics and nuclear physics). In high-energy physics there is a long tradition in using machine learning in the analysis of experimental data. Experimenters at CERN started using Machine Learning algorithms more than twenty years ago. The huge amount of data from experiments at CERN requires that the  high-energy physics group is heavily involved in both development and usage of CS and DS software. Furthermore, there is strong need for large storage capacities and high-performance computing resources (software and hardware).  
-The applications and developments of DS and CS algorithms and software is also important to activities in space physics, condensed matter physics and biophysics. In particular, Monte Carlo methods and  the solution of ordinary and partial differential equations play a central role. 
-The Department of Physics has also a group in Computational Physics. The group has worked with computational methods tailored to studies of strongly interacting quantum mechanical systems, spanning from atoms and molecules to condensed matter and materials science to subatomic physics. The latter includes Lattice quantum chromodynamics and studies of nuclear matter. The methods range from stochastic simulations (Monte Carlo methods) to solutions of large eigenvalue problems and large sets on non-linear equations. Optimization problems are used extensively. A broad spectrum of algorithms in computational science are used and developed, in addition to statistical data analysis and Machine Learning algorithms. The main activities have focused on computational quantum mechanics and computational statistical mechanics. The group collaborates with researchers across the disciplines, from political science to meteorology, mechanics and computational neuroscience.  Many of the above methods are widely used by other research groups at the department of Physics. Compared with the Departments of Chemistry, Geosciences and Theoretical Astrophysics, CS and DS research at the department of Physics has used less of the national high-performance computing resources.\todo{HS: Jeg er ikke sikker på om dette stemmer, eller vi bør legge til en kommentar at det er fordi vi har stor bruk av  internasjonale ressurser} This is likely to change in the future.
+The department of Physics has Computational Science and Data Science
+activities in several of its research groups. Some of the research
+groups use mainly existing software in the their analysis of for
+example experimental data. This is particularly relevant for the
+experimental research activities in subatomic physics (high-energy
+physics and nuclear physics). In high-energy physics there is a long
+tradition in using machine learning in the analysis of experimental
+data. Experimenters at CERN started using Machine Learning algorithms
+more than twenty years ago. The huge amount of data from experiments
+at CERN requires that the high-energy physics group is heavily
+involved in both development and usage of CS and DS
+software. Furthermore, there is strong need for large storage
+capacities and high-performance computing resources (software and
+hardware).  The applications and developments of DS and CS algorithms
+and software is also important to activities in space physics,
+condensed matter physics and biophysics. In particular, Monte Carlo
+methods and the solution of ordinary and partial differential
+equations play a central role.  The Department of Physics has also a
+group in Computational Physics. The group has worked with
+computational methods tailored to studies of strongly interacting
+quantum mechanical systems, spanning from atoms and molecules to
+condensed matter and materials science to subatomic physics. The
+latter includes Lattice quantum chromodynamics and studies of nuclear
+matter. The methods range from stochastic simulations (Monte Carlo
+methods) to solutions of large eigenvalue problems and large sets on
+non-linear equations. Optimization problems are used extensively. A
+broad spectrum of algorithms in computational science are used and
+developed, in addition to statistical data analysis and Machine
+Learning algorithms. The main activities have focused on computational
+quantum mechanics and computational statistical mechanics. The group
+collaborates with researchers across the disciplines, from political
+science to meteorology, mechanics and computational neuroscience.
+Many of the above methods are widely used by other research groups at
+the department of Physics. Compared with the Departments of Chemistry,
+Geosciences and Theoretical Astrophysics, CS and DS research at the
+department of Physics has used less of the national high-performance
+computing resources. This is likely to change in the future.
 
-The Computational Physics group has also been central in the development of the Computing in Science Education project, a project which aims at integrating in a coherent way computing in basic science courses. The members of the group are central members of the newly established Center of Excellence Center for Computing in Science Education. 
-The group has also developed several highly popular courses in computational physics, amongst these FYS3150/4150 with approximately 100 students from all disciplines in natural science at UiO. The members of the group have also developed the new course on Data Analysis and Machine Learning, FYS-STK3155/4155, with close to 100 students when it run the first time during the fall semester 2018. The members of the group initiated the process that led to the establishment of the new Master of Science program Computational Science. 
+The Computational Physics group has also been central in the
+development of the Computing in Science Education project, a project
+which aims at integrating in a coherent way computing in basic science
+courses. The members of the group are central members of the newly
+established Center of Excellence Center for Computing in Science
+Education.  The group has also developed several highly popular
+courses in computational physics, amongst these FYS3150/4150 with
+approximately 100 students from all disciplines in natural science at
+UiO. The members of the group have also developed the new course on
+Data Analysis and Machine Learning, FYS-STK3155/4155, with close to
+100 students when it run the first time during the fall semester
+2018. The members of the group initiated the process that led to the
+establishment of the new Master of Science program Computational
+Science.
 
 
 
