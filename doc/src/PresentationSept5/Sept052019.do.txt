@@ -94,7 +94,7 @@ The new center will host and coordinate research and educational programs in Com
 ===== More research opportunities =====
 
 * Simulations of complex quantum mechanical systems using novel algorithms
-* Establish cross-disciplinary activity in quantun information theory
+* Establish cross-disciplinary activity in quantum information theories
 * Using machine learning to solve complicated problems, from  neuroscience (our brain), physiology to complicated materials 
 * Computating and Data Science in Life Science
 * Idem for  the Social Sciences 
@@ -108,10 +108,10 @@ o Data Science and Computing center in 2020.
 o "New Master of Science Program on Computational Science starts fall 2018":"http://www.uio.no/english/studies/programmes/computational-science-master/index.html"
 o "New Master of Science Program on Data Science starts fall 2018":"http://www.uio.no/english/studies/programmes/datascience-master/index.html"
 o Extend these Masters programs to become cross-college programs
-o Establish  a cross-college PhD program in Computational and Data Sciences, start fall 2020. This PhD program will be a collaboration between the Natural Sciences, Humanities, Social Sciences, Medicine and Education. 
+o Establish  a cross-college PhD program in Computational and Data Sciences. This PhD program will be a collaboration between the Natural Sciences, Humanities, Social Sciences, Medicine and Education. 
 o Develop an all university Master of Science Program in Computational Science and Data Science based on the present Computational Science and Data Science programs by XXXX
-o  Develop courses and course  modules in Computational Science and Data Science for the private and the public sectors as soon as possible.
-o Develop a PhD program in Computational Science and Data Science tailored to the needs of the private and the public sectors by fall 2020
+o Develop courses and course  modules in Computational Science and Data Science for the private and the public sectors as soon as possible.
+o Develop a PhD program in Computational Science and Data Science tailored to the needs of the private and the public sectors by fall XXXX
 o Develop a Bachelor program in Computational Science and Data Science? Need to strike a balance between existing programs and possible new _honors program_. 
 o Submit an application called _Computing Across the Disciplines_ for a Marie Curie training network by 2020, 15 PhD positions
 o Prepare first draft for an SFF application by  spring 2020
