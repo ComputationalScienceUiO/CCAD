@@ -47,5 +47,21 @@ The material is produced in various formats for printing and on-screen reading.
 
 
 
+===== Talking points March 1 =====
+
+
+
+ * LaTeX PDF:
+   * For printing:
+     * "Standard one-page format": "http://computationalscienceuio.github.io/CCAD/doc/pub/newprograms/pdf/newprograms-minted.pdf"
+ * HTML slides:
+   * "Plain html style": "http://computationalscienceuio.github.io/CCAD/doc/pub/newprograms/html/newprograms.html"
+   * "reveal.js beige slide style": "http://computationalscienceuio.github.io/CCAD/doc/pub/newprograms/html/newprograms-reveal.html"
+   * "Bootstrap style": "http://computationalscienceuio.github.io/CCAD/doc/pub/newprograms/html/newprograms-bs.html"
+ * iPython notebook:
+   * "ipynb file": "http://computationalscienceuio.github.io/CCAD/doc/pub/newprograms/ipynb/newprograms.ipynb"
+
+
+
 
 

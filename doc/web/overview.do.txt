@@ -10,10 +10,11 @@ AUTHOR: Morten Hjorth-Jensen  Email:mhjensen@fys.uio.no
 
 <%
 pub_url = 'http://computationalscienceuio.github.io/CCAD/doc/pub'
-published = ['draft', 'whitepaper',]
+published = ['draft', 'whitepaper', 'newprograms',]
 chapters = {
  'draft': 'Computing across the disciplines, slides',
  'whitepaper': 'Computing across the disciplines, whitepaper',
+ 'newprograms': 'Talking points March 1',
 }
 %>
 
